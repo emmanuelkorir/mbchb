@@ -1,0 +1,8 @@
+{
+  "label": "Level",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Select your academic year to find notes."
+  }
+}
