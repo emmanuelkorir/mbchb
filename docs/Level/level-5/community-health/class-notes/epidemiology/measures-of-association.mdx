@@ -1,0 +1,338 @@
+---
+sidebar_position: 4
+---
+
+# Measures of Association
+
+Dr Chesang
+
+## Measures of disease association
+
+Are tools used to describe the _association between an exposure and a heath outcome._ To answer the question ‘**why?**’ We need to compare disease occurrence in groups with and without the exposures of interest.
+
+If the exposure is causal, the importance of that exposure can then be determined in terms of its overall effect on health of a community. Two main ways of comparing measures of disease:
+
+1. **_Relative comparisons:_** divided by one another
+2. **_Absolute comparisons:_** difference between measures (subtracted from one another)
+
+- **_Relative measures:_** give information on how many time higher the rate disease in one group than in another group
+- **_Absolute measures:_** how extra disease occurred in one ground compared with another group
+
+## Organizing data
+
+- 2 by 2 table: two columns (number of people with and without the disease) and two rows (numbers in the exposed and unexposed groups)
+- Margins: outermost column and row numbers
+- Cells: numbers in inner area (a, b, c ,d)
+
+- When comparing incidence rates:
+  > omission of the number of people without disease
+  > substitution of counts with person-time in the margin
+
+## Relative measures
+
+Based on the ration of two measures of disease frequency
+
+> RR= Re/Ru
+
+- Include: _risk ratio, rate ratio, relative rate or relative risk_
+- Also: _incidence rate ratio, cumulative incidence ratio and prevalence ratio_
+  -In clinical trials: relative risk reduction/increase (RRR/RRI) o Interpretation of the numeric value:
+- **1.0:** no association
+- **greater than 1.0:** exposure is associated with a higher risk of the outcome (Exposure is a **_risk factor_**)
+- **less than 1.0:** exposure is associated with a lower risk of the outcome (Exposure is a **_protective factor_**)
+
+:::note Relative Risk/Risk Ratio
+Purpose: To measure how strongly a risk factor is associated with an outcome (e.g., death, injury, disease). To help establish disease etiology.
+Used in **cohort studies** & **randomized controlled trials.**
+:::
+
+### How to calculate:
+
+- **Rate ratios:** incidence in exposed divided by rate in unexposed (IRe/IRu)
+- **Risk ratio/relative risk:** cumulative incidence in exposed divided by unexposed (CIe/CIu)
+- **_Prevalence ratios:_** prevalence in exposed divided by unexposed (Pe/Pu)
+
+### How to calculate ('using 2 by 2 table'):
+
+The relative risk of developing the disease is expressed as the _ratio of the risk (incidence) in exposed individuals to that in unexposed_
+
+`RR = (a ÷ [a +b ]) / (c ÷ [ c + d ])`
+
+## Absolute (difference) measures
+
+- Risk difference or rate difference.
+- Also: _incidence rate difference (rate difference/excess rate), cumulative incidence difference (risk difference/excess risk), and prevalence difference_.
+- Calculated by _subtracting the incidence in the unexposed group from the incidence in the exposed group_
+- **_Attributable risk_** of rate **_suggest causation_**
+- Can be calculated either for: exposed individuals or for the total population
+- For exposed individuals:
+  `RD (AR)= Re- Ru` or (incidence risk in exposed group) - (incidence risk in unexposed group) = <sup>a</sup>&frasl;<sub>(a + b)</sub> - <sup>c</sup>&frasl;<sub>(c + d)</sub>
+
+- The RD described the _disease burden associated with exposure among the people who are exposed._
+- Important for health planning and policy setting
+- Assuming causality: the RD can be used to calculate the _number of cases that would be eliminated if the exposure were eliminated_
+- The excess risk or rate can be multiplied by the number of exposed people to obtain the actual number of excess cases
+- Clinical epidemiology:
+  Attributable risk= absolute risk reduction (ARR) or absolute risk increase (ARI)
+
+:::note Attributable risk (AR)
+The absolute difference between the risk of an outcome occurring in exposed individuals and unexposed individuals. Purpose: to measure the excess risk of an outcome that can be attributed to the exposure. Used in: **cohort studies.**
+:::
+
+:::tip Note
+The attributable risk of disease associated with the exposure cannot be calculated in case control study.
+:::
+
+## Total Population
+
+For total population:
+PRD (PAR) = R<sub>total</sub> - R<sub>unexposed</sub> or
+PRD= RD (AR) by Pe
+
+:::tip NOTE
+(incidence risk in the study population) - (incidence risk in the unexposed group).
+
+<sup>(a + c)</sup>&frasl;<sub>(a + b + c + d)</sub> - <sup>c</sup>
+&frasl;<sub>(c + d)</sub>
+:::
+
+- Impact of exposure on total population: population risk difference (or population rate difference)
+- The PRD describes _the excess number of cases in the total population that is associated with the exposure_
+- Assuming causality: the PRD identifies the number of cases of disease that would be eliminated in the total population if the exposure were eliminated
+- Also know as **Population Attributable Risk (PAR)**
+- Helps determine most important exposures - prioritize preventive interventions
+- Always be sure that the findings of the particular study are generalizable
+- Note the importance of the prevalence of exposure
+- The **_PRD (PAR) is always smaller than RD (AR)_**
+- Units and range (of values) depend on the measure of disease frequency that is used for the calculation
+
+### PAR vs ARe:
+
+- because the population is composed of both the exposed and unexposed, the population attributable risk (PAR) is usually lower than the attributable risk among the exposed (ARe)
+
+## Attributable fraction
+
+- Two measures that express the public health impact of an exposure as proportions:
+
+  > the attributable proportion among the exposed (also called the
+  > **_aetiologic fraction_**) the attributable proportion among the total population
+
+- Attributable proportion among the exposed:
+  `(APe)= [(Re-Ru) ÷ Re)] X 100%`
+- **APe:** proportion of disease among the exposed that would be eliminated if the exposure were eliminated
+- Assumes a causal relationship between the exposure and disease
+
+## Population attributable fraction (PAF)
+
+- the proportion of disease among the total population that would be eliminated if the exposure were eliminated.
+- Attributable proportion in the total population:
+  `APt= [(Rt-Ru) ÷ Rt] X 100%` or `PAF= (population attributable risk ÷ incidence in total population) X 100%`
+- Useful for determine priorities for public health action
+- Also known as **population attributable risk per cent (PAR %)**
+
+## Case control studies
+
+- Disease incidence cannot be calculated directly, and so cannot calculate relative risks in the same way
+- We use odds ratios (ORs)
+- When a disease is rare: **Rate ratio ≈ Risk ratio ≈ Odds ratio**
+
+### How to calculate using 2 by 2 table:
+
+- The odds ratio (OR or relative odds) of disease development is the ratio of the odds of developing the disease in exposed individuals by that in unexposed individual.
+- Using the 2 by 2 table:
+- Odds of disease in exposed individuals: a/b
+- Odds of disease in unexposed individuals: c/d
+- Thus:
+  `OR= (a x d) ÷ (b x c)`
+
+:::note Odds Ratio (OR)
+Odds: the probability of an event occurring divided by the probability of this event not occurring. OR is thus Comparison of the odds of an event occurring in one group against the odds of an event occurring in another group. Purpose: to measure the strength of an association between a risk factor and an outcome. Used in: **case-control studies.** Interpretation: OR = 1: The outcome is **equally likely** in exposed and unexposed individuals.
+OR > 1: The outcome is **more likely** to occur in exposed individuals.
+OR < 1: The outcome is **less likely** to occur in exposed individuals.
+:::
+:::tip NOTE
+Case-control studies do not track participants over time, so they cannot be used to calculate relative risk. However, the assumption can be made that if an outcome (e.g., disease prevalence) is rare, the incidence of that outcome is low and the OR is approximately the same as the RR.
+:::
+
+## Attributable risk in case control studies:
+
+- The attributable risk of disease associated with the exposure cannot be calculated in case control study.
+- The attributable fraction can be estimated as:
+  `Attributable fraction =[ (OR-1) ÷ OR] X 100`
+- Also the **_population attributable fraction (PAF)_**:
+  `PAF = [ Pe (OR - 1) / Pe (OR - 1) + 1 ] x 100`
+  or
+  `PAF = Pe cases ( OR - 1 ) ÷ OR x 100`
+
+## Practice Question
+
+## Measures of disease association
+
+Are tools used to describe the a*ssociation between an exposure and a heath outcome.* To answer the question ‘**why?**’ We need to compare disease occurrence in groups with and without the exposures of interest.
+
+If the exposure is causal, the importance of that exposure can then be determined in terms of its overall effect on health of a community. Two main ways of comparing measures of disease:
+
+1. **_Relative comparisons:_** divided by one anther
+2. **_Absolute comparisons:_** difference between measures (subtracted from one another)
+
+- **_Relative measures:_** give information on how many time higher the rate disease in one groped than in another group
+- **_Absolute measures:_** how extra disease occurred in one ground compared with another group
+
+## Organizing data
+
+- 2 by 2 table: two columns (number of people with and without the disease) and two rows (numbers in the exposed and unexposed groups)
+- Margins: outermost column and row numbers
+- Cells: numbers in inner area (a, b, c ,d)
+
+- When comparing incidence rates:
+  > omission of the number of people without disease
+  > substitution of counts with person-time in the margin
+
+## Relative measures
+
+Based on the ration of two measures of disease frequency
+
+> RR= Re/Ru
+
+- Include: _risk ratio, rate ratio, relative rate or relative risk_
+- Also: _incidence rate ratio, cumulative incidence ratio and prevalence ratio_
+  -In clinical trials: relative risk reduction/increase (RRR/RRI) o Interpretation of the numeric value:
+- **1.0:** no association
+- **greater than 1.0:** exposure is associated with a higher risk of the outcome (Exposure is a **_risk factor_**)
+- **less than 1.0:** exposure is associated with a lower risk of the outcome (Exposure is a **_protective factor_**)
+
+:::tip
+Relative measures used to establish causation while absolute measures for decision and policies making.
+:::
+
+### How to calculate:
+
+- **Rate ratios:** incidence in exposed divided by rate in unexposed (IRe/IRu)
+- **Risk ratio/relative risk:** cumulative incidence in exposed divided by unexposed (CIe/CIu)
+- **_Prevalence ratios:_** prevalence in exposed divided by unexposed (Pe/Pu)
+
+### How to calculate ('using 2 by 2 table'):
+
+The relative risk of developing the disease is expressed as the _ratio of the risk (incidence) in exposed individuals to that in unexposed_
+
+`RR = (a ÷ [a +b ]) / (c ÷ [ c + d ])`
+
+## Absolute (difference) measures
+
+- Risk difference or rate difference.
+- Also: _incidence rate difference (rate difference/excess rate), cumulative incidence difference (risk difference/excess risk), and prevalence difference_.
+- Calculated by _subtracting the incidence in the unexposed group from the incidence in the exposed group_
+- **_Attributable risk_** of rate **_suggest causation_**
+- Can be calculated either for: exposed individuals or for the total population
+- For exposed individuals:
+  `RD (AR)= Re- Ru`
+- The RD described the _disease burden associated with exposure among the people who are exposed._
+- Important for health planning and policy setting
+- Assuming causality: the RD can be used to calculate the _number of cases that would be eliminated if the exposure were eliminated_
+- The excess risk or rate can be multiplied by the number of exposed people to obtain the actual number of excess cases
+- Clinical epidemiology:
+  Attributable risk= absolute risk reduction (ARR) or absolute risk increase (ARI)
+
+## Total Population
+
+For total population:
+`PRD (PAR) = Rt-Ru` or
+`PRD= RD (AR) by Pe`
+
+- Impact of exposure on total population: population risk difference (or population rate difference)
+- The PRD describes _the excess number of cases in the total population that is associated with the exposure_
+- Assuming causality: the PRD identifies the number of cases of disease that would be eliminated in the total population if the exposure were eliminated
+- Also know as **Population Attributable Risk (PAR)**
+- Helps determine most important exposures - prioritize preventive interventions
+- Always be sure that the findings of the particular study are generalizable
+- Note the importance of the prevalence of exposure
+- The **_PRD (PAR) is always smaller than RD (AR)_**
+- Units and range (of values) depend on the measure of disease frequency that is used for the calculation
+
+### PAR vs ARe:
+
+- because the population is composed of both the exposed and unexposed, the population attributable risk (PAR) is usually lower than the attributable risk among the exposed (ARe)
+
+## Attributable fraction
+
+- Two measures that express the public health impact of an exposure as proportions:
+
+  > the attributable proportion among the exposed (also called the
+  > **_aetiologic fraction_**) the attributable proportion among the total population
+
+- Attributable proportion among the exposed:
+  `(APe)= [(Re-Ru) ÷ Re)] X 100%`
+- **APe:** proportion of disease among the exposed that would be eliminated if the exposure were eliminated
+- Assumes a causal relationship between the exposure and disease
+
+## Population attributable fraction (PAF)
+
+- the proportion of disease among the total population that would be eliminated if the exposure were eliminated.
+- Attributable proportion in the total population:
+  `APt= [(Rt-Ru) ÷ Rt] X 100%` or `PAF= (population attributable risk ÷ incidence in total population) X 100%`
+- Useful for determine priorities for public health action
+- Also known as **population attributable risk per cent (PAR %)**
+
+## Case control studies
+
+- Disease incidence cannot be calculated directly, and so cannot calculate relative risks in the same way
+- We use odds ratios (ORs)
+- When a disease is rare: **Rate ratio ≈ Risk ratio ≈ Odds ratio**
+
+### How to calculate using 2 by 2 table:
+
+- The odds ratio (OR or relative odds) of disease development is the ratio of the odds of developing the disease in exposed individuals by that in unexposed individual.
+- Using the 2 by 2 table:
+- Odds of disease in exposed individuals: a/b
+- Odds of disease in unexposed individuals: c/d
+- Thus:
+  `OR= (a x d) ÷ (b x c)`
+
+## Attributable risk in case control studies:
+
+-
+- The attributable fraction can be estimated as:
+  `Attributable fraction =[ (OR-1) ÷ OR] X 100`
+- Also the **_population attributable fraction (PAF)_**:
+  `PAF = [ Pe (OR - 1) / Pe (OR - 1) + 1 ] x 100`
+  or
+  `PAF = Pe cases ( OR - 1 ) ÷ OR x 100`
+
+  :::warning
+  The attributable risk of disease associated with the exposure cannot be calculated in case control study.
+  :::
+
+## Practice Question
+
+|                    | Disease  | Lung      | Cancer |
+| ------------------ | -------- | --------- | ------ |
+| Exposure (smoking) | Yes (+)  | No (-)    | Total  |
+| Yes                | 40 (a)   | 80 (b)    | 120    |
+| No                 | 15 (c)   | 115 (d)   | 130    |
+| Total              | 55 (a+c) | 195 (b+d) | 250    |
+
+1. **_Relative Risk_**
+   Risk of the exposed: 40/120 = 0.33
+   Risk in the unexposed: 15/130 = 0.12
+   Risk in the total population: 55/250 = 0.22
+   Relative measures and interpretation RR = Re/Ru = 0.33/0.12 = 2.75 **_Interpretation: 175% higher risk of lung cancer among smokers compared to non-smokers. (2.75-1) since it is greater than one_**
+   :::tip
+   If RR is less than 1, interpretation by (1 - RR) x 100% = Answer% . Answer% less risk of lung cancer.
+   :::
+2. **_Odds ratio_**
+
+- Odds of lung cancer among smokers = 40/80 = 0.5
+- Odds of lung cancer among nonsmokers = 15/115 = 0.13
+- OR = odds in exposed ÷ odds in unexposed = 0.5/0.13 = 3.85 **_Interpretation: 285% higher risk of lung cancer in smokers compared to nonsmokers._**
+
+3. **_Absolute measures and interpretation_**
+
+- AR/RD = Re – Ru = 0.33 – 0.12 = 0.21
+- AF = (Re – Ru) / Re = {(0.33 -0.12) ÷ 0.33} X 100% = (0.21/0.33) X 100% = 64%
+  **_Interpretation: Assuming causality, 64% of lung cancer cases among the exposed would not have occurred had they not smoked._**
+
+4. **_Population attributable risk and fraction_**
+
+- PAR/PRD = Rt – Ru = 0.22 – 0.12 = 0.10
+- PAF = (Rt – Ru) / Rt = {(0.22 – 0.12) ÷ 0.22} X 100% = (0.10/0.22) X 100% = 45%
+- **_Interpretation: If smoking is a cause of lung cancer then 45% of all lung cancer cases occurring in the total population (regardless of whether they were smokers or non-smokers) could be attributed to smoking._**

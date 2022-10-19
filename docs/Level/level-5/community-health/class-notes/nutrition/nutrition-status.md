@@ -79,48 +79,16 @@ anthropometric changes. Changes often result from: _inadequate dietary intake, i
 3. Requires highly trained manpower
 4. Special arrangements needed for transport and storage of biological specimen/samples collected
 
-| Nutrient | Method                      | Recommended | Rationale                     |
-| -------- | --------------------------- | ----------- | ----------------------------- |
-| Anemia   | Hemoglobin (Hb), Hematocrit | Hemoglobin  | Hemoglobin concentration is a |
-
-direct measure of anaemia. Using
-
-a field photometer , e.g.
-
-Hemocue, measures are quick,
-
-easy, & can be done at household
-
-level during surveys. |
-| Iron | Serum transferrin receptors
-
-Ferritin
-
-Serum iron
-
-Transferrin saturation
-
-Erythrocyte protoporphyrin | Serum transferrin receptors | sTfR is affected by concurrent
-
-infections & is widely used for
-
-iron deficiency assessment on
-
-serum samples from a finger stick
-
-capillary blood sample. If ferritin
-
-is used the values obtained have
-
-to be controlled for inflammation
-
-status. |
-| Iodine | Urinary iodine, Neonatal TSH Thyroglobulin | Urinary Iodine | Single samples of urine can be easily collected from school children or adult Samples are stable & it is not essential to freeze them during transport. Calculation of median urinary excretion is widely accepted as a valid method of measuring population status. |
-| Vitamin A | Serum retinol Retinol binding protein Relative dose response tests | Serum retinol | Serum retinol concentration is a good population indicator. Can be made on serum samples from a finger stick capillary blood sample. Same samples can be used for both iron & vitamin A measurements. |
-| Vitamin B 1 | Erythrocyte Transketolase Activity Coefficient (ETKAC) Blood concentration of thiamine Urine excretion | All methods have disadvantages but ETKAC is generally the most valid measure of status. | The ETKAC assay measures the activity of an enzyme that is dependent on thiamine. ETKAC well accepted but requires collection, centrifugation freezing of venous blood samples. |
-| Vitamin B 2 | Erythrocyte Glutathione Reductase Activity Coefficient (EGRAC) Blood concentration of riboflavin | Both methods have disadvantages but have been used successfully in field studies | The EGRAC assay measures activity of an enzyme that is dependent on riboflavin. A well accepted functional measurement but requires collection, centrifugation & freezing of blood samples. |
-| Vitamin B 3 | Urinary excretion metabolites compared to creatinine concentration in urine | Urinary excretion | The excreted metabolites are stable during storage, samples are easily collected and the method has been successfully used in field surveys. |
-| Vitamin C | Serum concentration Leukocyte Concentration Urine excretion | Serum concentration | Storage & transport of serum samples need freezing & may be problematic, but serum vita.C is an easier measure & needs less sample volume than isolation of white blood cells. Urine excretion only shows recent intake & more research still needed on it in population surveys. |
+| Nutrient    | Method                                                                                                 | Recommended                                                                             | Rationale                                                                                                                                                                                                                                                                         |
+| ----------- | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Anemia      | Hemoglobin (Hb), Hematocrit                                                                            | Hemoglobin                                                                              | Hemoglobin concentration is a direct measure of anaemia. Using a field photometer , e.g.Hemocue, measures are quick,easy, & can be done at household level during surveys.                                                                                                        |
+| Iron        | Serum transferrin receptors Ferritin Serum iron Transferrin saturation Erythrocyte protoporphyrin      | Serum transferrin receptors                                                             | sTfR is affected by concurrent infections & is widely used for iron deficiency assessment on serum samples from a finger stick capillary blood sample. If ferritin is used the values obtained have to be controlled for inflammation status.                                     |
+| Iodine      | Urinary iodine, Neonatal TSH Thyroglobulin                                                             | Urinary Iodine                                                                          | Single samples of urine can be easily collected from school children or adult Samples are stable & it is not essential to freeze them during transport. Calculation of median urinary excretion is widely accepted as a valid method of measuring population status.              |
+| Vitamin A   | Serum retinol Retinol binding protein Relative dose response tests                                     | Serum retinol                                                                           | Serum retinol concentration is a good population indicator. Can be made on serum samples from a finger stick capillary blood sample. Same samples can be used for both iron & vitamin A measurements.                                                                             |
+| Vitamin B 1 | Erythrocyte Transketolase Activity Coefficient (ETKAC) Blood concentration of thiamine Urine excretion | All methods have disadvantages but ETKAC is generally the most valid measure of status. | The ETKAC assay measures the activity of an enzyme that is dependent on thiamine. ETKAC well accepted but requires collection, centrifugation freezing of venous blood samples.                                                                                                   |
+| Vitamin B 2 | Erythrocyte Glutathione Reductase Activity Coefficient (EGRAC) Blood concentration of riboflavin       | Both methods have disadvantages but have been used successfully in field studies        | The EGRAC assay measures activity of an enzyme that is dependent on riboflavin. A well accepted functional measurement but requires collection, centrifugation & freezing of blood samples.                                                                                       |
+| Vitamin B 3 | Urinary excretion metabolites compared to creatinine concentration in urine                            | Urinary excretion                                                                       | The excreted metabolites are stable during storage, samples are easily collected and the method has been successfully used in field surveys.                                                                                                                                      |
+| Vitamin C   | Serum concentration Leukocyte Concentration Urine excretion                                            | Serum concentration                                                                     | Storage & transport of serum samples need freezing & may be problematic, but serum vita.C is an easier measure & needs less sample volume than isolation of white blood cells. Urine excretion only shows recent intake & more research still needed on it in population surveys. |
 
 ## Dietary assessment methods
 
