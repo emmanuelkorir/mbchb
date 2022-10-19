@@ -172,3 +172,9 @@ on the skin, eyes and hair, in organs near the surface of the body e.g. parotid 
 > Frequent association with dehydration which may be masked by edema,
 > Generally apathetic, lethargic & miserable when left alone. Irritable
 > when handled
+
+:::tip
+
+Clinical evaluation of nutritional status is ineffective for micronutrient deficiencies.
+
+:::
