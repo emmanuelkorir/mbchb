@@ -60,8 +60,7 @@ competing treatment regimens
 1. **Quantitative variables:** we often summarize data using a single number – a descriptive measure. Descriptive measures for quantitative data are:
 
 - **Measures of Central tendency (location):** measures the centre of the distribution. Often the location where data tend to cluster. Captures the central/average value of a set of data
-- **Measures of Dispersion (spread)** – refers to the average distance between observations. Indicates the magnitude by which individuals tend to differ from each other. By determining how far an observation lies from the rest we
-  can deduce whether such an observation is unusual (outlier) or not
+- **Measures of Dispersion (spread)** – refers to the average distance between observations. Indicates the magnitude by which individuals tend to differ from each other. By determining how far an observation lies from the rest we can deduce whether such an observation is unusual (outlier) or not
 
 ### Central tendency measures
 
@@ -101,6 +100,13 @@ Data distributions may classified as to whether they are symmetric or asymmetric
 - Right/positive skewed – distribution has long tail to the right eg of a variable: incubation of period
 - Left/negative skewed – distribution has long tail to the left eg gestation length, birth weight (fewer babies have low birth weight and preterm)
 
+<div style={{ display: 'flex', justifyContent: 'center' }}>
+  <img
+    src="https://i.imgur.com/J6WEfwE.png"
+    alt="central-tendency-measures"
+  />
+</div>
+
 ### Dispersion measures
 
 Dispersion conveys info regarding the amount of variability present in a dataset. If all values are the same there’s no dispersion. Amount of dispersion may be small when the values – though different – are close together. There are a number of measures: **_range, variance, standard deviation, coefficient of variation, interquartile range_**
@@ -118,6 +124,13 @@ The rationale for degrees of freedom: The sum of the deviations of the values fr
 
 - **Standard deviation:** The variance represents squared units and hence not appropriate when we want to express dispersion in terms of the original units. To obtain dispersion in the original units we get the square root of variance –
   the standard deviation (𝑠). Back to example on plasma volumes.
+
+<div style={{ display: 'flex', justifyContent: 'center' }}>
+  <img
+    src="https://i.imgur.com/FlSWoKX.png"
+    alt="standard-deviation"
+  />
+</div>
 
 - **Coefficient of variation (CV):** Useful when one wishes to compare the dispersion between two variables that are measured in different units – comparing their SDs (have units) would lead to fallacious results e.g. comparison between serum cholesterol levels (mg/100ml) and body weight (lbs). Even in situations where the two variables have same units, their means may be different.
 
@@ -152,14 +165,9 @@ The 𝑃<sub>25</sub> is first quartile (𝑄1), 𝑃<sub>50</sub> is also the s
 
 To find quartile for a dataset the following formulas are used:
 
-Q<sub>1</sub>= <sub>n + 1</sub>&frasl;<sub>4</sub> th ordered observation
-
-Example: The number of days spent in hospital by 17 subjects after an operation arranged in
-increasing size were: 3, 4, 4, 6, 8, 8, 8, 10, 10, 12, 14, 14, 17, 25, 27, 37, 42
-
-> Q<sub>2</sub>= <sub>2(n + 1)</sub>&frasl;<sub>4</sub> th ordered observation = 9th observation = 10
-
-> Q<sub>3</sub>= <sub>3(n + 1)</sub>&frasl;<sub>4</sub> th ordered observation = 13.5th obs = <sub>17 + 25</sub>&frasl;<sub>2</sub>
+<div style={{ display: 'flex', justifyContent: 'center' }}>
+  <img src="https://i.imgur.com/029sOY3.png" alt="percentiles" />
+</div>
 
 :::
 
@@ -194,6 +202,13 @@ are joined to prevent gaps from occurring
 The **frequency polygon (ogive)** is a line graph that portrays _a frequency distribution_. It is constructed from a histogram by placing a dot above the midpoint of each class interval then connecting the dots by straight lines. The polygon is brought down to the horizontal axis at the ends at points that would be midpoints if there was an
 additional bar
 
+<div style={{ display: 'flex', justifyContent: 'center' }}>
+  <img
+    src="https://i.imgur.com/dLryybu.png"
+    alt="frequency-polygon"
+  />
+</div>
+
 ### Stem-and-leaf plots
 
 Resembles the histogram and provides info on the range of the dataset, shows location of the highest concentration of observations/clusters and reveals the presence/absence of symmetry
@@ -204,9 +219,17 @@ Consists of:
   dataset
 - Leaf – consists of one or more of the remaining digits. Forms the rows of the plot listed to the right of their respective stems. When leaves consist of more than one digit, all digits after the first may be deleted. Decimals when present in the original data are omitted in the plot Example:
 
+<div style={{ display: 'flex', justifyContent: 'center' }}>
+  <img src="https://i.imgur.com/5TdXecK.png" alt="stem-leaf-plot" />
+</div>
+
 ### Box-and-Whisker plots
 
 A plot that makes use of the quartiles of a dataset. Reveals info on the amount of spread, location of concentration of observations and symmetry of the data. Uses relationships among the median, lower and upper quartiles to describe the skewness of a distribution:
+
+<div style={{ display: 'flex', justifyContent: 'center' }}>
+  <img src="https://i.imgur.com/FTwmA0M.png" alt="box-whisker" />
+</div>
 
 - If the distribution is symmetric then the upper and lower quartiles should be **equally spaced from the median**
 - If upper quartile is further from the median than the lower quartile – distribution is **positively skewed**
@@ -216,10 +239,21 @@ A plot that makes use of the quartiles of a dataset. Reveals info on the amount 
 
 Display the _relationship between two continuous variables by plotting_. One variable against the values of another variable (e.g. one axis of the plot could represent height and the other weight) with each person in the dataset receiving one data point on the plot that corresponds to his/her height and weight. Eg scatter plot below shows _a positive correlation between height and weight (increase in height accompanied by increased weight)_
 
+<div style={{ display: 'flex', justifyContent: 'center' }}>
+  <img src="https://i.imgur.com/UMiOTjR.png" alt="scatter-plots" />
+</div>
+
 ## Qualitative variables
 
 Descriptive stats for analyzing **categorical variables** include: **_frequencies, percentages and fractions (relative frequencies)_** obtained from a variable’s frequency distribution table
 Example: The following frequency table shows the frequency of each category of marital status in a sample of 80 people along with the corresponding percentages:
+
+<div style={{ display: 'flex', justifyContent: 'center' }}>
+  <img
+    src="https://i.imgur.com/dLryybu.png"
+    alt="central-tendency-measures"
+  />
+</div>
 
 Besides frequency tables, we can display categorical data using graphs:
 
@@ -228,4 +262,18 @@ Besides frequency tables, we can display categorical data using graphs:
 
 Bar charts use bars (which don’t touch: displays discontinuous data) to represent each category of the variable of interest – the length of the bars reflect the frequencies or percentages of the distribution of the variable:
 
+<div style={{ display: 'flex', justifyContent: 'center' }}>
+  <img
+    src="https://i.imgur.com/UMiOTjR.png"
+    alt="central-tendency-measures"
+  />
+</div>
+
 In Pie charts the percentages are represented by the angles in different slices of a circle –the total angle (360 degrees) representing 100%
+
+<div style={{ display: 'flex', justifyContent: 'center' }}>
+  <img
+    src="https://imgur.com/4YrY9nh.png"
+    alt="central-tendency-measures"
+  />
+</div>
