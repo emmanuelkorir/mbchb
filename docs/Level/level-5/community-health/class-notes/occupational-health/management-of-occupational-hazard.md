@@ -31,7 +31,7 @@ Any risk that comes from the biosphere – people, plants, and animals – can b
 
 - Engineering controls reduce risk through physical means e.g regular cleaning of the workplace, pest prevention/extermination, wearing of PPE, proper disposal of materials and items that may pose a biological risk.
 - Administrative controls reduce risk by change of work processes and activities to make them more safe e.g allowing proper sick leave to employees, providing immunization programs, and limiting exposure to potential biological safety hazards by shifts compulsory annual leave and training staff to work safely around them
-- Employees should not work alone ---out os site of others or mgt inase of need for help Prevention and control of chemical hazards at a work place  This methodology has four phases.
+- Employees should not work alone ---out os site of others or mgt inase of need for help Prevention and control of chemical hazards at a work place. This methodology has four phases.
 
 These four phases are;
 
@@ -86,7 +86,8 @@ The “steps” in the ladder are:
 > Record keeping
 > Continuous improvement
 
-:::tip Take home Learning point:
+:::tip NOTE
+Take Home Learning Points:
 Minimization of exposure to any occupational hazard requires several assessment methods and control measures
-READ ON CONTROL MEASURES ON: safety of moving machines, Ergonomics, Occupational stress
+Read on control measures on: safety of moving machines, Ergonomics, Occupational stress
 :::

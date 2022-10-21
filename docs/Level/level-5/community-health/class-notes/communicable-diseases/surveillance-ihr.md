@@ -144,14 +144,14 @@ A Public Health Emergency of International Concern (PHEIC) is a formal declarati
 ### Recent PHEIC declarations
 
 - 2009 swine flu declaration first issued in April 2009
-- 2014 polio declaration second PHEIC issued in May 2014 with the resurgence of polio after its near-eradication, deemed "an extraordinary event�
+- 2014 polio declaration second PHEIC issued in May 2014 with the resurgence of polio after its near-eradication, deemed "an extraordinary event".
 - 2014 Ebola declaration issued on Friday, August 8, 2014 in response to the outbreak of Ebola in Western Africa
-- 2019 Outbreak of COVID � 19
-- 2016 Zika virus declaration on Monday, February 1, 2016 in response to clusters of microcephaly and Guillain�Barr� syndrome in the Americas suspected to be associated with the ongoing outbreak of Zika virus
-- 2019 Outbreak of COVID - 19
+- 2019 Outbreak of COVID-19
+- 2016 Zika virus declaration on Monday, February 1, 2016 in response to clusters of microcephaly and Guillain Barr syndrome in the Americas suspected to be associated with the ongoing outbreak of Zika virus
+- 2019 Outbreak of COVID-19
 
 ### Events Required by the IHR for Reporting
 
-Four conditions that **must** be notified to WHO: **_smallpox, poliomyelitis due to wild-type poliovirus, human influenza caused by a new subtype, SARS, COVID � 19._**
+Four conditions that **must** be notified to WHO: **_smallpox, poliomyelitis due to wild-type poliovirus, human influenza caused by a new subtype, SARS, COVID-19._**
 
-Other diseases and events _may require notification_ if they are considered to be events of potential international public health concern including: **_Cholera, plague, yellow fever, VHF, other diseases that are of special national or regional concern e.g. dengue fever._** �Any event of potential international public health concern including those of unknown cause or source, and those involving other events or diseases�
+Other diseases and events _may require notification_ if they are considered to be events of potential international public health concern including: **_Cholera, plague, yellow fever, VHF, other diseases that are of special national or regional concern e.g. dengue fever._** Any event of potential international public health concern including those of unknown cause or source, and those involving other events or diseases

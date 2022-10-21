@@ -46,6 +46,6 @@ The Directorate"s policy and legal mandate are provided by the national occupati
 
 Function Examples:
 
-- OSHA 2007- it�s a legislation
+- OSHA 2007- it's a legislation
 - Regulations(Legal notices e,g Medical examinations and safety and health committes)
 - WIBA
