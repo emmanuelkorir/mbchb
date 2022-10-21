@@ -2,6 +2,10 @@
 sidebar_position: 1
 ---
 
+# Management of Occupational Hazard
+
+Dr Kinoti
+
 ## Classification of work place occupational hazards
 
 1. Biological Hazards e.g blood borne & infectious agents

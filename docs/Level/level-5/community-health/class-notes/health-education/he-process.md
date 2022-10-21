@@ -2,9 +2,9 @@
 sidebar_position: 2
 ---
 
-Veronica Sanda Ojiambo, Tutorial Fellow, UoN
-
 # Health Education Process
+
+Veronica Sanda Ojiambo, Tutorial Fellow, UoN
 
 ## Steps in Health Education Process
 
