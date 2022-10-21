@@ -18,4 +18,3 @@ Revision has been made a lot easier. Just select your level.
 ## Challenges
 
 In case of any issue, contact us on our [email](mbchbfordummies@gmail.com).
-p
