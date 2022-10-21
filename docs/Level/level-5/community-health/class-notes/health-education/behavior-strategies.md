@@ -4,6 +4,8 @@ sidebar_position: 3
 
 # Behavior Change Strategies
 
+Veronica Sanda Ojiambo, Tutorial Fellow, UoN
+
 ## Definitions
 
 ### Contingency contracts

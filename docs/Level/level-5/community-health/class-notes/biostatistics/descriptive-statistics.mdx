@@ -1,0 +1,231 @@
+---
+sidebar_position: 2
+---
+
+# Descriptive Statistics
+
+Dr Mweu
+
+## Definitions
+
+Statistics is a field of study concerned with collection, organization, summarization and analysis of data (descriptive), and drawing of inferences/conclusion about a body of data when only a part of the data is observed
+
+Two branches:
+
+1. **Descriptive stats** – deals with organizing and summarizing data
+2. **Analytic/Inferential stats** – deals with making inferences from samples about populations and drawing conclusions from data (draw conclusions from data collected)
+
+Biostatistics applies statistical methods to medical and biological problems
+
+Data are numbers resulting from a measurement (e.g. auscultating patient, weighing a patient or taking temperature, US findings) and the data contain information – thus statistics seeks to investigate and evaluate the meaning of this info
+
+**Population:** collection of all the individuals that we wish to say something about; a set representing all measurements of interest to the investigator eg population of children, population of pregnant women
+
+**Sample:** a part of the population on which measurements are taken; a subset of measurements selected from the population of interest. An example from the variable height:
+
+- **Population:** measurement of height of everyone in a room (census). Then summarize the measurement by calculating the average height: we get a parameter value which is an exact value (ignoring measurement error for instrument used) – where no estimation is involved.
+
+- **Sample:** measurement of height of some people in the room. The average height of the sample constitutes a statistic: it’s a ‘guess’ of the parameter value (errors includes sampling error, measurement error)
+
+Nutshell: parameters are numerical descriptive measures computed from population measurements whilst statistics are computed from sample measurements. Field of statistics is dedicated to understanding how well ‘statistics’ estimate ‘parameters’
+
+Data are often necessary to answer key questions e.g. clinicians faced with a choice among
+competing treatment regimens
+
+**Sources of data:**
+
+1. **Routinely kept records:** usually the first stopover in quest for data e.g. hospital medical records containing patient info
+2. **Surveys:** often the logical source when recorded data are absent/insufficient e.g. if a hospital administrator seeks to understand the mode of transportation used by patients to visit a hospital and admission forms don’t contain a question on transportation modes then a survey amongst patients is necessary
+3. **Experiments (field trials, clinical trials):** investigator conducts an experiment e.g. a nurse may wish to know which of several strategies is best for maximizing patient compliance. Here, different strategies of motivating compliance are tried with different patients with responses to the different strategies evaluated to determine
+   which strategy is most effective
+4. **External sources:** data may already exist in the form of published reports, data banks (repositories) or research literature. These data may be reanalyzed to answer key questions
+
+**Constant:** takes the same value for all the individuals eg gravity
+
+**Variable:** an attribute or characteristic that takes different values from one individual to another eg weight in a group of people. A variable is random if the value it takes for a particular individual is a chance or random event i.e. the value cannot be exactly predicted in advance
+
+## Types of variables:
+
+1. **Quantitative:** measurable in terms of magnitude (can be quantified)
+
+   - Continuous: can take on any value in a given range including decimals e.g. height, blood pressure, temperature
+   - Discrete: can take on only whole numbers e.g. counts of lesions
+
+2. **Qualitative:** variables not measurable or described in magnitude – often called factors eg risk factors
+   - Ordinal: have an order but no magnitude e.g. education levels primary/secondary/tertiary, severity – mild/moderate/severe, prognosis – good/fair/poor, socioeconomic status (low/medium/high)
+   - Nominal “name”: categorized without any implied order e.g. sex, dead/alive, ethnicity, religion, marital status
+
+## Descriptive statistics
+
+1. **Quantitative variables:** we often summarize data using a single number – a descriptive measure. Descriptive measures for quantitative data are:
+
+- **Measures of Central tendency (location):** measures the centre of the distribution. Often the location where data tend to cluster. Captures the central/average value of a set of data
+- **Measures of Dispersion (spread)** – refers to the average distance between observations. Indicates the magnitude by which individuals tend to differ from each other. By determining how far an observation lies from the rest we
+  can deduce whether such an observation is unusual (outlier) or not
+
+### Central tendency measures
+
+Most commonly used are: _mean, median and mode_
+
+- **Arithmetic mean:** Considered the most familiar measure of central tendency. The term ‘arithmetic’ distinguishes it from other means (we restrict ourselves to this only). The sample mean 𝑥 computed from a sample of values is expressed by Where **𝑥𝑖** is the typical value of a random variable and 𝑛 denotes the no. of values in the sample
+
+Example: The plasma volumes of 8 healthy men are: 2.75, 2.86, 3.37, 2.76, 2.62, 3.49, 3.05, 3.12 liters
+𝑥 = 2.75 + 2.86 + 3.37 + 2.76 + 2.62 + 3.49 + 3.05 + 3.12 8 = 3.0025 𝑙𝑖𝑡𝑟𝑒𝑠
+
+**Properties:**
+
+1. Uniqueness – for a given set of data there’s only one mean
+2. Simplicity – the mean is easily understood and easy to compute
+3. Prone to distortion by extreme values since each value in a dataset enters into the computation of the mean (affected by extreme values: it’s not accurate reflection )
+
+- **Median:** Value that divides a set of values into two equal parts such that the no. of values equal to or greater than the median is equal to the no. of values equal to or less than the median. If no. of values is odd then the median is the middle value when all values are arranged in order of magnitude (ascending manner). If the no. of values is
+  even, then the median is the mean of the two middle values when all values are arranged in order of magnitude
+
+**Properties:**
+
+1. Uniqueness – as with mean, there’s only a single median for a given set of
+   data
+2. Simplicity – is easy to calculate
+3. Not drastically affected by extreme values as is the mean
+
+- **Mode:** Is the value which occurs most frequently in a set of data. If all the values are different then there’s no mode. Never affected by skewness: it’s always at where most of the data is clustered. However, a set of values may have more than one mode
+
+Example: The number of days spent in hospital by 17 subjects after an operation are:
+3,4,4,6,8,8,8,10,10,12,14,14,17,25,27,37,42 𝑀𝑜𝑑𝑒 𝑖𝑠: 8
+
+When mean, median and mode are equal we get a symmetric distribution termed the **bell-shaped curve** – the most common being the normal distribution.
+
+Data distributions may classified as to whether they are symmetric or asymmetric (skewed).
+
+- Symmetric – left half of graph (histogram/frequency polygon) is mirror image of the right half
+- Right/positive skewed – distribution has long tail to the right eg of a variable: incubation of period
+- Left/negative skewed – distribution has long tail to the left eg gestation length, birth weight (fewer babies have low birth weight and preterm)
+
+### Dispersion measures
+
+Dispersion conveys info regarding the amount of variability present in a dataset. If all values are the same there’s no dispersion. Amount of dispersion may be small when the values – though different – are close together. There are a number of measures: **_range, variance, standard deviation, coefficient of variation, interquartile range_**
+
+- **Range:** Is the difference between the largest and smallest value in a set of observations. If we denote range by 𝑅, the largest (maximum) value by **𝑥𝐿** and the smallest (minimum) value by **𝑥𝑠** then range is given by:
+  `𝑅 = 𝑥𝐿 – 𝑥𝑠`
+
+Since range expressed as a single number imparts minimal info about a dataset it is often preferable to express range as a number pair: (𝑥𝑠,𝑥𝐿) – conveys more info
+
+- **Variance:** Expresses dispersion relative to the scatter of values about their mean. The sample variance 𝑠2 is computed by subtracting the mean from each of a set of values, then squaring the resulting differences, followed by adding up the squared differences. The resulting sum is then divided by the sample size minus 1 Where 𝑛 − 1 is referred to as **degrees of freedom (DF)**
+
+:::tip NOTE
+The rationale for degrees of freedom: The sum of the deviations of the values from their mean is equal to zero. If then we know the values of 𝑛 − 1 of the deviations from the mean, we know the nth one since it is automatically determined because of the necessity for all 𝑛 values to add to zero
+:::
+
+- **Standard deviation:** The variance represents squared units and hence not appropriate when we want to express dispersion in terms of the original units. To obtain dispersion in the original units we get the square root of variance –
+  the standard deviation (𝑠). Back to example on plasma volumes.
+
+- **Coefficient of variation (CV):** Useful when one wishes to compare the dispersion between two variables that are measured in different units – comparing their SDs (have units) would lead to fallacious results e.g. comparison between serum cholesterol levels (mg/100ml) and body weight (lbs). Even in situations where the two variables have same units, their means may be different.
+
+The CV is a measure of _relative variation that expresses the standard deviation as a percentage of the mean._ Since the mean and SD have the same units, CV has _no units_
+
+CV = <sup>s</sup>&frasl;<sub>X̄</sub> x 100%
+
+Example: Suppose two samples of male patients yield the following results: We wish to know which is more variable, the weights of the 25-year-olds or the 11- year-olds
+
+|                    | Sample 1  | Sample 2 |
+| ------------------ | --------- | -------- |
+| Age                | 25years   | 11years  |
+| Mean Weight        | 145pounds | 80pounds |
+| Standard Deviation | 10pounds  | 10pounds |
+
+> 25-yr-olds: 𝐶𝑉 = 10/145 × 100 = 6.9%
+> 11 yr-olds: 𝐶𝑉 = 10/80 × 100 = 12.5%
+> **Variation is much higher in the sample of 11-year-olds**
+
+:::note Percentiles & Quartiles
+Aside from means & medians, percentiles and
+quartiles are also location parameters. A percentile is defined as follows: Given a set of 𝒏 observations 𝒙<sub>𝟏</sub>, 𝒙<sub>𝟐</sub>, 𝒙<sub>𝒏</sub>,
+the 𝒑th percentile 𝑷 is the value of 𝒙 such that 𝒑 percent or less of the
+observations are less than 𝑷 and (𝟏𝟎𝟎 − 𝒑) percent or less of the observations
+are greater than 𝑷
+
+The 10th percentile is designated as 𝑃<sub>10</sub>, the 70th as 𝑃<sub>70</sub>, 𝑃<sub>50</sub>, the 50th
+percentile is the **median**.
+
+The 𝑃<sub>25</sub> is first quartile (𝑄1), 𝑃<sub>50</sub> is also the second/middle quartile (𝑄<sub>2</sub>) and
+𝑃<sub>75</sub> is the third quartile (𝑄<sub>3</sub>)
+
+To find quartile for a dataset the following formulas are used:
+
+Q<sub>1</sub>= <sub>n + 1</sub>&frasl;<sub>4</sub> th ordered observation
+
+Example: The number of days spent in hospital by 17 subjects after an operation arranged in
+increasing size were: 3, 4, 4, 6, 8, 8, 8, 10, 10, 12, 14, 14, 17, 25, 27, 37, 42
+
+> Q<sub>2</sub>= <sub>2(n + 1)</sub>&frasl;<sub>4</sub> th ordered observation = 9th observation = 10
+
+> Q<sub>3</sub>= <sub>3(n + 1)</sub>&frasl;<sub>4</sub> th ordered observation = 13.5th obs = <sub>17 + 25</sub>&frasl;<sub>2</sub>
+
+:::
+
+- **Interquartile Range:** Reflects the variability among the middle 50% of the observations in a dataset. It is the difference between the 3rd and 1st quartiles:
+  `𝐼𝑄𝑅 = 𝑄3 − 𝑄1`
+  A large 𝐼𝑄𝑅 indicates a large amount of variability among the middle 50% of the relevant observations
+
+## Graphical techniques
+
+### Frequency distribution and the histogram
+
+Besides using means, grouping data provides further useful summarization of data. Frequency distributions show the frequency of specific values or range of values in the data i.e. the distribution
+
+Guidelines on creating a frequency distribution:
+
+- Select a set of contiguous/continuous, non-overlapping intervals where each value can only be placed in one of the intervals (class intervals)
+- Determine the number of intervals to include: Too few intervals result in loss of information – intervals shouldn’t be less than 5 or greater than 15. Intervals can be determined by **Sturges’s rule:** `𝑘 = 1 + 3.322(𝑙𝑜𝑔 n)`; where 𝑘 is the no. of class intervals and 𝑛 is the size of dataset
+- Determine the width of the class intervals: Intervals should be of the same width. Width 𝑤 may be determined by dividing the range R by 𝑘 the number of class intervals: 𝑤 = <sub>𝑅</sub>&frasl;<sub>k</sub>
+- Intervals are ordered from smallest to largest
+
+Example: Table below shows a frequency distribution – values of age are distributed among the specified class intervals:
+
+Relative frequencies show the proportion rather than the number of values falling within a given class interval. The proportions are obtained by dividing the no. of values in a given class interval by the total no. of values
+
+To obtain cumulative frequencies (or cumulative relative freq.) of values falling within two or more classes we sum/cumulate the no. of values (or relative freq.) falling within the class intervals of interest:
+
+A histogram is a form of a bar graph which displays a frequency (or relative freq.) distribution: it displays **_continuous data_** thus bars touch each other.
+
+How its constructed: Values of the variable of interest are represented by the horizontal axis eg weight, age. The frequency (or relative freq.) is displayed on the vertical axis. Above each class interval on the horizontal axis a rectangular bar is erected so that the height corresponds to the relative freq. The bars of the histogram
+are joined to prevent gaps from occurring
+
+The **frequency polygon (ogive)** is a line graph that portrays _a frequency distribution_. It is constructed from a histogram by placing a dot above the midpoint of each class interval then connecting the dots by straight lines. The polygon is brought down to the horizontal axis at the ends at points that would be midpoints if there was an
+additional bar
+
+### Stem-and-leaf plots
+
+Resembles the histogram and provides info on the range of the dataset, shows location of the highest concentration of observations/clusters and reveals the presence/absence of symmetry
+
+Consists of:
+
+- Stem – has one or more of the initial digits of the measurement. Stems form an ordered column with the smallest stem at the top. The stem column has all stems within the range of the data even when an observation with that stem is not in the
+  dataset
+- Leaf – consists of one or more of the remaining digits. Forms the rows of the plot listed to the right of their respective stems. When leaves consist of more than one digit, all digits after the first may be deleted. Decimals when present in the original data are omitted in the plot Example:
+
+### Box-and-Whisker plots
+
+A plot that makes use of the quartiles of a dataset. Reveals info on the amount of spread, location of concentration of observations and symmetry of the data. Uses relationships among the median, lower and upper quartiles to describe the skewness of a distribution:
+
+- If the distribution is symmetric then the upper and lower quartiles should be **equally spaced from the median**
+- If upper quartile is further from the median than the lower quartile – distribution is **positively skewed**
+- If lower quartile is further from the median than the upper quartile – distribution is **negatively skewed**
+
+### Scatter plots
+
+Display the _relationship between two continuous variables by plotting_. One variable against the values of another variable (e.g. one axis of the plot could represent height and the other weight) with each person in the dataset receiving one data point on the plot that corresponds to his/her height and weight. Eg scatter plot below shows _a positive correlation between height and weight (increase in height accompanied by increased weight)_
+
+## Qualitative variables
+
+Descriptive stats for analyzing **categorical variables** include: **_frequencies, percentages and fractions (relative frequencies)_** obtained from a variable’s frequency distribution table
+Example: The following frequency table shows the frequency of each category of marital status in a sample of 80 people along with the corresponding percentages:
+
+Besides frequency tables, we can display categorical data using graphs:
+
+- Bar charts
+- Pie charts
+
+Bar charts use bars (which don’t touch: displays discontinuous data) to represent each category of the variable of interest – the length of the bars reflect the frequencies or percentages of the distribution of the variable:
+
+In Pie charts the percentages are represented by the angles in different slices of a circle –the total angle (360 degrees) representing 100%
