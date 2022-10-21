@@ -25,29 +25,29 @@ Tropical disease: diseases most common in the tropics due to conducive environme
 
 ## Define communicable diseases
 
-Can be said to one due to SPECIFIC AGENT OR ITS PRODUCTS that arises through the TRANSMISSION of agent or it�s product FROM RESERVOIR TO A SUSCEPTIBLE HOST. The transmission is either DIRECTLY OR INDIRECTLY through the agency of an intermediate host, vector or inanimate environment.
+Can be said to one due to specific agent OR its products that arises through the transmission of agent or its product to a susceptible host. The transmission is either directly OR indirectly through the agency of an intermediate host, vector or inanimate environment.
 
-AGENT: Cause of the disease. Chiefly a micro-organism and helminthes. Capable of producing the disease
+Agent: Cause of the disease. Chiefly a micro-organism and helminthes. Capable of producing the disease
 
-RESERVOIR: Human, animal or arthropod, Soil or inanimate matter. Normal habitat of agent. Optimal conditions necessary for: Multiplication, Survival, Reproduction of agent
+Reservoir: Human, animal or arthropod, Soil or inanimate matter. Normal habitat of agent. Optimal conditions necessary for: Multiplication, Survival, Reproduction of agent
 
-ESCAPE: The respiratory route: Natural function of breathing, or coughing. Gastro-intestinal route: Fecal matter. Genital route: Transmitted sexually. Urinary route: Agents appear in the urine. Abnormal route: No physiological function.
+Escape: The respiratory route: Natural function of breathing, or coughing. Gastro-intestinal route: Fecal matter. Genital route: Transmitted sexually. Urinary route: Agents appear in the urine. Abnormal route: No physiological function.
 
-TRANSMISSION: Agent: Escapes in natural secretions, discharges or evacuations. Escapes in medium of biting insect. Most vulnerable during transmission as not in reservoir and not in host. Length of route between hosts crucial. Time and space important. Agents have developed survival mechanisms: Bacteria form spores, Protozoa form cysts.
+Transmission: Agent escapes in natural secretions, discharges or evacuations. Escapes in medium of biting insect. Most vulnerable during transmission as not in reservoir and not in host. Length of route between hosts crucial. Time and space important. Agents have developed survival mechanisms: Bacteria form spores, Protozoa form cysts.
 
 Direct transmission: Reservoir to the new host: STI and Respiratory diseases. Physical environmental conditions important. Socioeconomic factors important. Proximity of people
 
 Indirect transmission:
 
-1. passive: Vehicle: Contaminated material or objects: Handkerchiefs, toys, soiled clothes, bedding, Water, food or milk, Biological products such as blood. Intermediate means of transport. Agent may or may not multiply
+1. Passive: Vehicle: Contaminated material or objects: Handkerchiefs, toys, soiled clothes, bedding, Water, food or milk, Biological products such as blood. Intermediate means of transport. Agent may or may not multiply
 2. Active: Another host utilized by agent.
 
 - Definitive host: Adult or sexually mature forms
 - Intermediate host: Intermediate forms
 
-ENTRY OF AGENT: Routes of entry: Virtually the same as those of escape of the agent. Portal of entry and development of the disease synonymous: Pulmonary tuberculosis, Gastrointestinal tuberculosis.
+Entry of agent: Routes of entry: Virtually the same as those of escape of the agent. Portal of entry and development of the disease synonymous: Pulmonary tuberculosis, Gastrointestinal tuberculosis.
 
-DEVELOPMENT OF DISEASE Host susceptibility: Host resistance or immunity. Agent factors: Infectivity, virulence, pathogenicity and antigenicity. Pathogenic infection. Incubation period
+Development of Disease Host susceptibility: Host resistance or immunity. Agent factors: Infectivity, virulence, pathogenicity and antigenicity. Pathogenic infection. Incubation period
 
 In summary, the concept of transmission of communicable diseases. Agent inside the reservoir. Escape of the agent from the reservoir. Transmission of the agent. Entry of the agent into a new host. Development of the agent inside the host.
 
@@ -73,22 +73,22 @@ Susceptible host: General health of the body (its prognostic), specific immunity
 
 ## Development of microbiology
 
-Microbiology: Living organisms of microscopic size. Antony van Leeuwenhoek 1675: �Animalcules� � living creatures. No concept of disease causation. Robert Koch � 1876: Germ theory of disease, Specific microorganism: Capable of causing human disease.
+Microbiology: Living organisms of microscopic size. Antony van Leeuwenhoek 1675: Animalcules living creatures. No concept of disease causation. Robert Koch 1876: Germ theory of disease, Specific microorganism: Capable of causing human disease.
 
-### Koch�s postulate
+### Koch's postulate
 
 The microorganisms should be present invariably in the diseased individual. The etiologic agent should be isolated from the diseased individual. Inoculation of the agent into healthy experimental animal should produce disease similar to that observed initially. The presumed pathogen should be isolated from the animal with experimentally induced disease.
 
 ## Pathological agents
 
-Variation in size and biologic complexity. Capable of growth outside of living host cells: Cultured on artificial medium. Incapable of growth outside of living host cells: Obligate intracellular parasites. Major groups of pathogens: Viruses: The smallest intact organisms, Demonstrated pathogenic potential. Cannot be seen with a light microscope. Obligate intracellular parasites. Depend entirely upon the host cell�s synthetic machinery for reproduction.
+Variation in size and biologic complexity. Capable of growth outside of living host cells: Cultured on artificial medium. Incapable of growth outside of living host cells: Obligate intracellular parasites. Major groups of pathogens: Viruses: The smallest intact organisms, Demonstrated pathogenic potential. Cannot be seen with a light microscope. Obligate intracellular parasites. Depend entirely upon the host cell's synthetic machinery for reproduction.
 
 Bacteria, Chlamydiae and Rickettsiae: Larger and more complex than viruses. Visible under the light microscope. Many capable of independent growth. Prokaryotes: Lack a true cell nucleus. No clearly define nuclear membrane present: Genetic material lies within the cytoplasm. Fungi: Larger than bacteria, More advanced cell structure, Are eukaryotic: Genetic material is separated from the cell cytoplasm by a nuclear membrane. Some reproduce by budding (yeasts). Other forms grow in colonies of attached organisms (molds). Parasites: Term used to refer to a variety of protozoan and multicellular eukaryotic organisms. Many undergo complex life cycles. May involve several host species. Major health problems in Economically underdeveloped countries ? Unusual group of pathogens: prions: Proteinaceous infectious particles. Postulated to be composed of proteins without nucleic acid. Induce abnormal conformational changes in related host protein rather than replication. Causative agents of fatal neurodegenerative disorders in animals and humans
 
 ## Pathogenesis-How do microbes cause disease
 
 - Mechanical effect eg the occlusion of capillaries by malaria parasites is possible
-- Biochemical effects are however foremost. Complex chemical substances are often elaborated and released including toxin. Biochemical substances: Biochemical substances implicated in pathogenicity have major effects include the following: Interference with mechanical blocks to the spread infection set in the body - bacterial kinases. Solving or stopping ingestion of microbes by phagocytic white blood cells � leucocidins. Destruction of body tissues - haemolysins, necrotizing exotoxins. Causing generalized unfavorable collectively termed toxicity.
+- Biochemical effects are however foremost. Complex chemical substances are often elaborated and released including toxin. Biochemical substances: Biochemical substances implicated in pathogenicity have major effects include the following: Interference with mechanical blocks to the spread infection set in the body - bacterial kinases. Solving or stopping ingestion of microbes by phagocytic white blood cells' leucocidins. Destruction of body tissues - haemolysins, necrotizing exotoxins. Causing generalized unfavorable collectively termed toxicity.
 
 ## Escape of agent from reservoir
 

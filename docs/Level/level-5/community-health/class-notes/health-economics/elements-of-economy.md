@@ -18,7 +18,7 @@ regarding the: -
 Due to scarcity of resources economists are really concerned with efficiency and
 equity otherwise referred to as **_the notion of efficiency and equity._** Economics is also founded on two fundamental concepts referred to as:
 
-I. The notion of EFFICIENCY: The notion of efficiency is defined as �maximizing well-being at the least cost to society. The term efficiency is used by economists to consider the extent to which decisions relating to the allocation of limited resources maximizes the benefits for society. The concept of efficiency embraces inputs (costs) and outputs and/or outcomes (benefits) and the relationship between them. Thus, a society being judged in efficiency terms by the extent to which it maximizes the benefits for its population, given the resources at its disposal. Economists are really concerned with efficiency and equity; thus, operations and performance of an economy is founded on the notion of efficiency categorized as:
+I. The notion of EFFICIENCY: The notion of efficiency is defined amaximizing well-being at the least cost to society. The term efficiency is used by economists to consider the extent to which decisions relating to the allocation of limited resources maximizes the benefits for society. The concept of efficiency embraces inputs (costs) and outputs and/or outcomes (benefits) and the relationship between them. Thus, a society being judged in efficiency terms by the extent to which it maximizes the benefits for its population, given the resources at its disposal. Economists are really concerned with efficiency and equity; thus, operations and performance of an economy is founded on the notion of efficiency categorized as:
 
 1. Allocative efficiency
 2. Productive efficiency
@@ -27,43 +27,26 @@ I. The notion of EFFICIENCY: The notion of efficiency is defined as �maximizin
 ### Allocative efficiency
 
 - **Question:** What is the best way to allocate resources to different consumption uses?
-- First; allocative efficiency in the overall economy and the health economy is
-  achieved when the best mix of goods and services; both medical and non-medical
-  are chosen given society�s underlying individual and societal preferences in the
-  macroeconomy
-- Secondly; allocative efficiency is achieved when the best mix of medical goods
-  and services are chosen given the society�s underlying individual and societal
-  preferences in the health economy
+- First; allocative efficiency in the overall economy and the health economy is achieved when the best mix of goods and services; both medical and non-medical are chosen given societies underlying individual and societal preferences in the macroeconomy
+- Secondly; allocative efficiency is achieved when the best mix of medical goods and services are chosen given the societies underlying individual and societal preferences in the health economy
 
 ### Production efficiency/technical efficiency
 
-- Production efficiency implies that society is getting the maximum output from its limited resources because the best mix of inputs has been chosen to produce
-  each good often referred to as efficiency savings
-- It is expected in productive/technical efficiency that output should be
-  maintained, while at the same time making cost reductions or additional output
-  is generated with the same level of inputs.
-- Productive/technical efficiency is applied where a choice needs to be made
-  between alternatives that seek to achieve the same goal
-  Productive/technical efficiency exists when output is maximized for a given cost,
-  or where the costs of producing a given output are minimized. Productive/technical efficiency is widely used in the context where for example, new therapies are compared against existing treatments, and authorities must decide whether it is worth paying more for the potential additional benefits that the new therapy offers. Productive/technical efficiency may also be known as operational efficiency/cost- effectiveness
-- The law of diminishing marginal returns; this is a theory in economics that
-  predicts that after some optimal level of production capacity is reached,
-  adding an additional factor of production results in smaller increases in
+- Production efficiency implies that society is getting the maximum output from its limited resources because the best mix of inputs has been chosen to produce each good often referred to as efficiency savings
+- It is expected in productive/technical efficiency that output should be maintained, while at the same time making cost reductions or additional output is generated with the same level of inputs.
+- Productive/technical efficiency is applied where a choice needs to be made between alternatives that seek to achieve the same goal. Productive/technical efficiency exists when output is maximized for a given cost, or where the costs of producing a given output are minimized. Productive/technical efficiency is widely used in the context where for example, new therapies are compared against existing treatments, and authorities must decide whether it is worth paying more for the potential additional benefits that the new therapy offers. Productive/technical efficiency may also be known as operational efficiency/cost- effectiveness
+- The law of diminishing marginal returns; this is a theory in economics that predicts that after some optimal level of production capacity is reached, adding an additional factor of production results in smaller increases in
   outputs.
-- Distributive efficiency/equity. The notion of equity is inextricably linked with notions of fairness and justice. However, it is important to distinguish the notion of equity from the concept of equality, which is the �condition of being equal� .
+- Distributive efficiency/equity. The notion of equity is inextricably linked with notions of fairness and justice. However, it is important to distinguish the notion of equity from the concept of equality, which is the condition of being equal.
 - **Health inequity:** Inequity refers to unfair and avoidable inequalities that are not inevitable or natural but the product of human behavior.
 - **Health inequality:** Inequality, on the other hand, simply refers to the uneven distribution of resources
-- **Health disparity:** A disparity simply means a difference. It does not
-  specifically refer to differences that are the result of unfairness or injustice.
+- **Health disparity:** A disparity simply means a difference. It does not specifically refer to differences that are the result of unfairness or injustice.
 
-Distributive efficiency/equity asks whether the distribution of services is
-equitable, or fair, to everyone involved. Theoretical foundations underpinning question of distribution/equity include: **The pure market system and A perfect egalitarian system**
+Distributive efficiency/equity asks whether the distribution of services is equitable, or fair, to everyone involved. Theoretical foundations underpinning question of distribution/equity include: **The pure market system and A perfect egalitarian system**
 
 ### Pure market system
 
-The goods and services are distributed, or rationed, to only those people who are
-both willing and able to purchase them in the marketplace. Productive resources/factors of production (labor, capital, technology) tend to be
-allocated efficiently in pure market system in the macroeconomy. However, pure market system is typically viewed as inherently unfair by many when it comes to the distribution of important goods and services such as health care. Given income disparities, some people may be denied access to needed goods and services
+The goods and services are distributed, or rationed, to only those people who are both willing and able to purchase them in the marketplace. Productive resources/factors of production (labor, capital, technology) tend to be allocated efficiently in pure market system in the macroeconomy. However, pure market system is typically viewed as inherently unfair by many when it comes to the distribution of important goods and services such as health care. Given income disparities, some people may be denied access to needed goods and services
 
 ### An egalitarian system
 
@@ -73,7 +56,9 @@ In an egalitarian system, everyone has access to the same goods and services wit
 - Also informs the concepts of National Social Health Insurance Fund (NSHIF)
   No one is denied access to needed goods and services
 
-The notion of EQUITY: The notion of equity is inextricably linked with notions of fairness and justice, but it is important to distinguish the notion of equity from the concept of equality, which is the �condition of being equal� .
+### The Notion of Equity
+
+The notion of equity is inextricably linked with notions of fairness and justice, but it is important to distinguish the notion of equity from the concept of equality, which is the condition of being equal.
 
 The two broad branches of economics are:
 
@@ -142,8 +127,7 @@ recipient country or its population. It can be economic, military, or emergency 
 
 This is the exchange of goods and services between countries
 
-Welfare economics is an economic theory that examines the costs and benefits of alternative health interventions (referred to as cost benefit analysis). It measures both costs and benefits of the alternative interventions. It determines the alternative intervention with the maximum benefit to the
-society at the least cost. Some of the economic techniques used to estimate societal economic welfare are:
+Welfare economics is an economic theory that examines the costs and benefits of alternative health interventions (referred to as **cost benefit analysis**). It measures both costs and benefits of the alternative interventions. It determines the alternative intervention with the maximum benefit to the society at the least cost. Some of the economic techniques used to estimate societal economic welfare are:
 
 1. Willingness to pay (WTP)
 2. Willingness to accept (WTA)
