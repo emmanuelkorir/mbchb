@@ -44,7 +44,8 @@ Probability of being positive or negative for E. histolytica = 0.295 + 0.705 = 1
 
 The probability of two independent events is obtained by multiplying individual probabilities of the events `𝑝(𝐴)∩𝑝(𝐵)=𝑝(𝐴) × 𝑝(𝐵)`
 
-```Example
+**Example**
+
 In a blood bank the following distribution of blood groups was observed.
 
 <div style={{ display: 'flex', justifyContent: 'center' }}>
@@ -52,9 +53,10 @@ In a blood bank the following distribution of blood groups was observed.
 </div>
 
 What is the probability that the next 2 persons will be in blood group O?
+
 𝑝(𝐴)∩𝑝(𝐵) =0.45 × 0.45=0.2025 ≅𝟎.𝟐𝟎
+
 Next 4 persons: 0.45 × 0.45 × 0.45 × 0.45 (chances decreases)
-```
 
 ## Important probability distributions
 
@@ -63,12 +65,14 @@ Probabilities can be assigned to each likely outcome for a variable. These proba
 The probability distribution of a variable depends on the type of variable:
 
 - **Continuous variables:** – temperature, weight, height: follow a **Normal distribution**
-- **Nominal — Binary (yes/no) variables:** sex, disease, death: follow a **Binomial distribution**
+- **Nominal/Binary (yes/no) variables:** sex, disease, death: follow a **Binomial distribution**
 - **Discrete or rare occurrences:** death, rare diseases, counts: follow a **Poisson distribution**
 
 ## Normal probability distribution
 
-All normally distributed variables are **_continuous but not all continuous variable_** are normally distributed eg income is a continuous variable but not normally distributed (skewed/outliers present). For continuous variables all values within a certain range are observable and the probability associated with one such observation is negligibly small such that on a continuous scale a **zero probability** is assigned to individual points eg if range of
+All normally distributed variables are **_continuous but not all continuous variable_** are normally distributed eg income is a continuous variable but not normally distributed (skewed/outliers present).
+
+For continuous variables all values within a certain range are observable and the probability associated with one such observation is negligibly small such that on a continuous scale a **zero probability** is assigned to individual points eg if range of
 weight in a population is 50-90kg, the probability of getting exact 57kg is negligible (0), they could be 57.4 may be.
 
 However, we can calculate the probability that a variable will take a value between two points e.g. 𝑎 and 𝑏. Eg probability of being between 60 and 65kg.
@@ -78,7 +82,7 @@ For continuous variables a **probability density** is defined – mathematical f
 Two important parameters are needed to calculate probabilities from the normal probability density:
 
 - **Mean (𝜇)** – locates the central position
-- **Variance (𝜎<sub>2</sub>)8** or its square root, the **standard deviation (𝜎)** measures the degree of spread about the mean
+- **Variance (𝜎<sup>2</sup>)** or its square root, the **standard deviation (𝜎)** measures the degree of spread about the mean
 
 If the **𝜇** and **𝜎** of a normally distributed variable are known, we can determine the probability that such a variable will take a value that lies between 2 points **𝑎** and **𝑏**.
 
@@ -86,7 +90,7 @@ If the **𝜇** and **𝜎** of a normally distributed variable are known, we ca
   <img src="https://i.imgur.com/AGRxKQu.png" alt="mean-variance" />
 </div>
 
-To estimate the probability for a normally distributed variable, we normally standardize the variable into a **\*standard normal deviate 𝑍 (z score)** which has a **_mean 0_** and **_variance 1_**:
+To estimate the probability for a normally distributed variable, we normally standardize the variable into a **standard normal deviate 𝑍 (z score)** which has a **_mean 0_** and **_variance 1_**:
 
 <div style={{ display: 'flex', justifyContent: 'center' }}>
   <img src="https://i.imgur.com/C0WO9Ld.png" alt="z-score" />
@@ -108,15 +112,25 @@ Such that:
 - **68%** covers **2 SD** on either side of the mean
 
 **Example:**
-The variable birth weight is known to be normally distributed with a mean of 3100𝑔 and variance of 2500𝑔<sub>2</sub>. What is the probability that a baby will weigh greater than 3000𝑔? (First draw the probability distribution)
 
-<div style={{ display: 'flex', justifyContent: 'center' }}>
+The variable birth weight is known to be normally distributed with a mean of 3100𝑔 and variance of 2500𝑔<sup>2</sup>. What is the probability that a baby will weigh greater than 3000𝑔? (First draw the probability distribution)
+
+<div style={{ display: 'flex' }}>
+<div style={{ display: 'flex', justifyContent: 'right' }}>
   <img src="https://i.imgur.com/rtXaN3U.png" alt="example" />
 </div>
 
+<div style={{ display: 'flex', justifyContent: 'left' }}>
+  <img src="https://i.imgur.com/zjO2N6G.png" alt="normal" />
+</div>
+</div>
+
 The calculated 2.0 is the Z score, read off from the 2 tail probability table, what is obtained is the probability at the tail.
-Probability less than 3000g = 0.02275
-Probability 3000 g = 0
+
+Probability less than 3000g = **0.02275**
+
+Probability 3000 g = **0**
+
 Probability between 3000-3200g= (1-0.02275) times 2
 
 ## Binomial probability distribution
@@ -134,9 +148,9 @@ Important for calculating the **probability of disease (binary variables)** eg *
 
 The binomial equation:
 
-**P**: probability
+**P** = probability
 
-**Y**: success
+**Y** = success
 
 **𝑦** = no. of successes after 𝑛 trials
 
@@ -144,11 +158,11 @@ The binomial equation:
 
 **𝜋** = probability of success on a single trial
 
-**1-𝜋**: probability of failure
+**1-𝜋** = probability of failure
 
-**n-y**: no. of failure
+**n-y** = no. of failure
 
-**(n y) factorial**: use calculator to obtain: eg **10ncr5**
+**(n y) factorial** = use calculator to obtain: eg **10ncr5**
 
 If the conditions described above are met then 𝑿 is said to have a binomial distribution with parameters 𝝅 and 𝒏
 
@@ -196,16 +210,24 @@ If the probability of a certain disease is thought to be 0.2. What is the probab
 
 Hence normal approximation to Binomial distribution is possible:
 
+<div style={{ display: 'flex', justifyContent: 'center' }}>
+  <img src="https://i.imgur.com/vTGmi2b.png" alt="binomial" />
+</div>
+
 ## Poisson probability distribution
 
 The Poisson distribution is a **discrete probability distribution** for the **_counts (or rates) [eg incident rate]_** of events that occur randomly (can’t predict when they will happen e.g. time to next phone call) in a given interval of time or space.
 
 If 𝑌 = the no. of events (eg phone call) in a given interval (eg 1 hour) and if the mean no. of events per interval is 𝜆, the probability of observing y events (eg 5 phone calls) in a given interval is given by:
 
+<div style={{ display: 'flex', justifyContent: 'center' }}>
+  <img src="https://i.imgur.com/5h6QSwk.png" alt="poisson" />
+</div>
+
 **Example**
 Births in a hospital occur randomly at an average of 1.8 births per hour. What is the probability of observing 4 births in a given hour at the hospital?
 (Denominator is 4 factorial)
 
 <div style={{ display: 'flex', justifyContent: 'center' }}>
-  <img src="https://i.imgur.com/vTGmi2b.png" alt="poisson" />
+  <img src="https://i.imgur.com/gCDIEg9.png" alt="poisson" />
 </div>
