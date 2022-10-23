@@ -8,7 +8,7 @@ Kellen Karimi
 
 ## Definition
 
-\*\*A technical document that provide detailed and compehensive information on a controlled product. The information is about:
+A technical document that provide detailed and compehensive information on a controlled product. The information is about:
 
 - Health effects of exposure​
 - Hazard evaluation related to the product’s handling, storage or use​

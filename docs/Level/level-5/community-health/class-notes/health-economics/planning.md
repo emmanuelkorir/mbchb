@@ -6,7 +6,7 @@ sidebar_position: 5
 
 Dr Agot George
 
-## Health Planning
+## Definitions
 
 Health planning is a scientific approach to problem solving in health economy. Examine the environment within which the health sector operates. Assess the future of the health sector within that environment. It is a logical and orderly series of steps.
 
