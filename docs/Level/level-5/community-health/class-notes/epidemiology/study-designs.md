@@ -1,0 +1,233 @@
+---
+sidebar_position: 2
+---
+
+# Study Designs
+
+Dr Chesang
+
+## Definitions
+
+Study design: the methodology that is used to collect the information to address the research
+question. To harvest valid and precise information.
+
+Validity: lack of bias and confounding.
+
+## Types of study designs
+
+1. Descriptive studies (answers the question what, who, when):
+
+- Case series and case reports)
+- Prevalence survey
+- Migrant studies, ecological or correlation studies
+
+2. Analytic studies (answers the question why)
+
+- Observational studies: cohort studies, case control, ecological, cross sectional
+- Intervention studies: Randomized (RCTs), non randomized
+
+## Descriptive studies
+
+Concerned with person, place and time. Answers the questions: **WHO? WHAT? WHEN? WHERE?**
+
+**Uses:**
+
+- Can provide the first idea about causality
+- Assessing the health status of population
+- Planning and evaluating public health programmes (gives you numbers)
+- Identify a disease clusters and disease epidemic
+
+1. Case reports and case series
+
+Detailed descriptions of one of more cases of a disease that are unusual for some reason. Can be a new disease, previously unaffected individuals, new areas, previously controlled
+
+Advantages:
+
+- May stimulate interest in an area leading to more detailed studies.
+- Can help identify health problems eg acute outbreaks
+
+Limitations:
+
+- Little evidence of causality. Does not describe pattern of disease occurrence
+
+2. Prevalence Surveys
+
+Determines prevalence of a factor of interest in the community (do cross sectional studies first using representative samples). Can be called **descriptive cross-sectional study.**
+
+Cross sectional studies: relations between two aspects of health in a cross section of the population
+
+3. Migrant Studies
+
+Separates the effects of nature and nurture eg prevalence of diabetes in a certain area is the cause genetic? Environmental? (Observational: you don’t inform a group to migrate but follow up to compare)
+
+## Analytic studies
+
+Planned comparisons between people with and without disease/exposure (in analytic studies _all other factors should be same in interest population except for exposure/outcome of interest_) eg compare those that smoke and non smokers: who has PUD, OR those with PUD and those that don’t: how many are smokers and non
+smokers
+
+Answers the questions: **why** do some people develop disease, **how** strong is the association between exposure and outcome **(strength of association).**
+
+Are main tools for identifying the causes of disease and evaluating health interventions.
+
+Classified into:
+
+- Experimental (investigator actively manipulated which groups receive the agent under study eg a vaccine)
+- Observational (investigator passively observes as nature takes its course)
+
+1. Experimental Studies
+
+Also known as **intervention studies.** Earliest: **James Lind:** Scurvy: 1747. The investigator actively intervenes to change something to see what effect this has on disease occurrence. Includes treatment/clinical trials and preventive trials eg folic acid in preventing NTD.
+
+Treatment group: Allocated the agent under the study. Comparison group: not allocated the agent under study eg a drug
+
+**Random allocation/randomization:** ensures that all of the ground are as similar as possible at the start of the study. Randomized studies are considered the **gold standard** of study design as they minimize bias and confounding. Note the difference between randomization and random selection. Placebo: Pharmacologically inactive substance.
+
+:::tipe NOTE
+State of equipoise must exist for the study to be ethical (if it’s clear a drug is beneficial or harmful: no reason to withhold beneficial agent or continue the harm eg HRT).
+:::
+
+Eligibility criteria: has to be scientific, safety, ethical and practical concerns: this criteria influences generalizability. Allocation can be random or non random. Length of follow up is dependent on outcome of interest eg longer for a chronic disease. Minimize losses to follow up and drop outs eg using population of motivated individuals eg HCW or simply study without compromising it. Assessment of compliance: non compliance makes it difficult to determine if an experimental treatment is effective.
+
+**Blinding (masking)**
+
+- **Single blind:** only participant is unaware of their allocation.
+- **Double blind:** both investigator and the participant are unaware of allocation.
+- **Triple masked:** the participants, the investigators administering the treatment and investigator monitoring the effects of the treatment are masked.
+
+Importance of blinding: knowledge of treatment may affect both the participant’s response and an observer’s measurement of outcome.
+
+2. Crossover trials vs parallel study (one group takes drug vs other doesn’t)
+   In cross over study _a participant serve as their own control_ eg take analgesics only when symptomatic, **parallel study.** Needs fewer participant. Not all interventions can be studied in this manner.
+
+**N of 1 trials:** variant of crossover trial (uses only 1 participant)
+
+Disadvantages of experimental studies
+
+- High costs (eg follow up, investigations)
+- Ethical issues, physicians and patient reluctance to participate
+- Non compliance, the need to maintain high follow up rates
+
+## Observational Studies
+
+Classification:
+
+- **Cohort studies:** Participant are defined according to their exposure levels and followed for disease control: exposure VS outcome.
+- **Case control:** participant are defined as cases and controls and exposure histories are compared: outcome vs exposure
+- **Analytic cross sectional study:** examines relationship between exposure and disease prevalence population in a defined population at a single point in time
+- **Analytic ecologic studies:** examines relationship between exposure and disease with population level rather than individual level data can lead to ecological fallacy because exposure doesn’t necessarily mean outcome
+
+### Cohort Studies:
+
+Compares the occurrence of disease in groups of people with and without a particular exposure. A cohort is any designated group of persons who are followed or tracked over a period of time.  
+Timing:
+
+- Prospective (exposure has occurred, wait for outcome to occur),
+- Retrospective (historical cohort study: both exposure and outcome has occurred )
+- Ambivalent (both prospective and retrospective phases)
+
+Follow up and outcome assessment: conclusions are drawn based on _measures of disease frequency_ as either exposure is **causal** or **protective.** More than one outdone is usually investigated (eg cigarette smoking; cancer, HTN etc), length of follow up depends on the outcome of interest. A longer follow up has higher risk of losses and expensive. Follow up rates should be as high as possible in order to ensure validity of
+study
+
+**Strengths**
+
+- Efficient for rare exposure (based on exposure) e.g. an exposure to a chemical spill in a factory
+- Good information on exposure (if prospective)
+- Can evaluate multiple effects of an exposure
+- Efficient for diseases with long induction and latent period (retrospective)
+- Less vulnerable to bias (prospective)
+- Can directly measure disease incidence or risk
+- Clear temporal relationship between exposure and outcome (if prospective: exposure came before outcome)
+
+**Limitations**
+
+- Inefficient for rare outcomes
+- Poor information on exposures and other key variables (retrospective)
+- Expensive and time consuming (particularly prospective)
+- Inefficient for diseases with long induction and latent periods (prospective)
+- More vulnerable to bias (retrospective)
+
+### Case Control Studies
+
+First step is case definition. Cases are those affected by a disease of interest. Control (all eligibility criteria is same as case except for disease presence) is a sample of source of population that gave rise to the cases.
+
+Divided based on outcome then check back for exposure. The quality of case control study can be as big as that of cohort study. More vulnerable to bias;
+
+- **Selection bias** (meet eligibility criteria?)
+- **Information bias** (interviewer bias (questions asked) and recall bias).
+
+Selection of controls: should meet “would criterion”, Controls (and cases) should be sampled independent of exposure status: avoid selection bias
+
+Checks what % of those that have disease have the exposure: if among the cases majority have exposure (exposure is causal) and if among control majority have the exposure (exposure is protective)
+
+Other types:
+
+- Nested case control studies
+- Case cohort studies
+- Case cross over studies
+
+**Strengths**
+
+- Efficient for rare diseases
+- Divides based on outcome (less time and money)
+- Efficient for diseases with long induction and latent periods
+- Evaluate multiple
+- Exposures: good for diseases which little is known
+
+**Limitations**
+
+- Inefficient for rare exposures
+- May have poor information on exposure(because it is retrospective)
+- Risk of bias because is retrospective (not good for weak association)
+- Difficult to infer temporal relationship
+
+### Ecologic Studies:
+
+Evaluates _an association using the population rather than individual as the unit of analysis._
+
+**Limitations**
+**Ecological fallacy/ecological bias** (thinking that relationships observed for groups necessarily holds for individuals I.e error of attributing the characteristics of a population to an individual). An apparent relation could be due to **confounding**
+
+**Strengths**
+
+- Low cost (takes a short time and are inexpensive because relies on pre-existing data)
+- Cover a wider range of exposure levels than a typical individual level study)
+- Ability to examine contextual effects on health eg religion, community economics & politics
+- Help to generate or develop hypothesis eg high prevalence of DM & obese vs low prevalence of DM & obesity in two different communities
+
+### Cross-sectional Studies
+
+Looks at the relation between two aspects of health in a ‘cross section’ of the population at a single point in time.
+
+:::tip NOTE
+Cross-sectional studies can be both descriptive and analytic (answers the question why)
+:::
+
+Participants are selected _without regard to exposure or disease/outcome status._ To avoid selection bias, sample should be representative of the whole population (thus cross sectional study used for prevalence): facilitate generalizability. For public health planning and causal research.
+
+Strengths
+
+- Highly generalizable: when based on a sample of the population
+- Low cost (done in a short period of time)
+- Examine rates of disease in a population (prevalence)
+
+Limitations
+
+- Preponderance/predominance of prevalent cases of long duration/slow progressing disease compared to rapid progressing (each type can have different RFs)
+- Healthy worker survivor effect
+- Cannot infer temporal sequence between exposure and disease (possibility of reverse causality; low weight vs cancer)
+
+:::warning NOTE
+Exception to infer temporal relationship in case of unaltered characteristics (eg genetic trait) and _avoided if the exposure measure reflects not only present but also past exposure._
+:::
+
+## Which design is appropriate?
+
+Determined by:
+
+- Research question; ideal and practical design to answer the question
+- State of knowledge
+- Frequency of the exposure and disease; rare exposure vs rare outcome
+- Expected strength of the association (validity); study that has less bias
+- Practical and ethical consideration
+- Costs (efficiency) eg experimental is expensive compared to retrospective cohort study
+- Availability of sustainable study population and records; with retrospective cohort choose where records are well placed
