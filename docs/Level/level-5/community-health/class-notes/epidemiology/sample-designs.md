@@ -12,7 +12,7 @@ A Population: is the aggregate of all cases that conform to some designated set 
 
 Study population (reference/target): group we want to study dependent on research problem
 
-Census inquiry/survey: a complete enumeration f all items in the population. Every individual in the population is measured
+Census inquiry/survey: a complete enumeration of all items in the population. Every individual in the population is measured
 
 Sample: a subset of the population
 
