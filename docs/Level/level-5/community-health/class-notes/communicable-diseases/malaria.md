@@ -207,7 +207,7 @@ Kenya, and Malawi through a Malaria Vaccine Implementation Programme (MVIP).
 Not recommend in babies between 6 and 12 weeks of age due to low efficacy.
 :::
 
-The **RTS,S malaria vaccine**: RTS,S is a scientific name given to \*\*this malaria vaccine candidate and represents its composition.
+The **RTS,S malaria vaccine**: RTS,S is a scientific name given to this malaria vaccine candidate and represents its composition.
 
 - The **‘R’** stands for the **central repeat region of Plasmodium (P.) falciparum circumsporozoite protein (CSP)**
 - The **‘T’** for the **T-cell epitopes of the CSP**
