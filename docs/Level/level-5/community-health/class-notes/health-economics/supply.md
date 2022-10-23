@@ -38,17 +38,18 @@ Elasticity of supply: Elasticity of supply measures the response of quantity sup
 2. **Perfectly, completely or infinite elastic supply**
    Sellers are prepared to sell all they can at some price and none at all at higher or lower prices. The numerical measure of elasticity is infinity
 
-3. Unity elasticity: Quantity supplied changes by exactly the same percentage as does price. The numerical measure of elasticity is one
+3. **Unity elasticity**
+   Quantity supplied changes by exactly the same percentage as does price. The numerical measure of elasticity is one
 
-4. Elastic supply: Quantity supplied changes by a larger percentage than does price. The numerical measure of elasticity is greater than 1 but less than infinity
+4. **Elastic supply**
+   Quantity supplied changes by a larger percentage than does price. The numerical measure of elasticity is greater than 1 but less than infinity
 
-5. Inelastic supply: Quantity supplied changes by a smaller percentage than does price. The numerical measure of elasticity is greater than zero but less than one
+5. **Inelastic supply**
+   Quantity supplied changes by a smaller percentage than does price. The numerical measure of elasticity is greater than zero but less than one
 
 ## Concepts of price theory
 
 Price theory is concerned with the determination of price of any commodity. It is determined by putting demand and supply curves together. Price is determined at the level where demand for and supply of any commodity are equal referred to as equilibrium price. Equilibrium price is that price at which the quantity offered for sale equals the quantity demanded by consumers. At the equilibrium price, quantity demanded equals quantity supplied, with no shortages or surpluses.
-
-![Price Equilibrium](./price-equilibrium.jpg)
 
 The tendency of prices, determined by the interaction of supply and demand, to clear the market is referred to as the rationing function of prices in the sense that it automatically rations the production of the buyers leaving no shortage or surplus. The shifts in the demand or supply curves lead to a change in equilibrium price and quantity What ensures that market price prevails and that no single participant in the market can take advantage of another? In a word this depends on competition, the existence of many buyers and sellers.
 
@@ -81,7 +82,7 @@ The determinants of consumer demand Consumer choice looks more closely at the de
 Consumer choice shows how indifference curves can be used to describe consumers’ tastes and then introduce a budget line to describe the consumption possibilities open to a consumer who has a given income. A theory of demand can be built by focusing on bundles of goods between which the consumer is indifferent. Indifference curves show combinations of goods that give the same level of satisfaction. A budget constraint shows what the consumer could buy with a given
 income. A consumer optimizes by moving to the highest indifference curve that is available with a given budget constraint.
 
-### concept of utility
+### Concept of utility
 
 Utility is the satisfaction a consumer receives from consuming products or services. Consumer choice examines the concept of utility to gain insights into how consumers allocate their spending
 
