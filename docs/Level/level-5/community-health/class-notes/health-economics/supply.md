@@ -6,7 +6,7 @@ sidebar_position: 3
 
 Dr Agot
 
-## Concepts of Supply
+## Definitions
 
 Supply is defined as the quantity of any commodity which is offered for sale at a given moment and at any specific price
 
