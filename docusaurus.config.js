@@ -46,7 +46,7 @@ const config = {
         //   // Remove this to remove the "edit this page" links.
         // },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: [require.resolve('./src/css/custom.css')],
         },
       }),
     ],
@@ -55,7 +55,23 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      algolia: {
+        appId: 'BMJ0RFX78A',
+        apiKey: '7aa9aba09e4af41923477490050fa9ca',
+        indexName: 'mbchbfordummies',
+      },
+      docs: {
+        sidebar: {
+          hideable: true,
+          autoCollapseCategories: true,
+        },
+      },
+      announcementBar: {
+        id: 'announcementBar', // Increment on change
+        content: `Site still under🚧`,
+      },
       navbar: {
+        hideOnScroll: true,
         title: 'MBChBforDummies',
         logo: {
           alt: 'My Site Logo',
@@ -98,6 +114,10 @@ const config = {
               {
                 label: 'Twitter',
                 href: 'https://twitter.com/',
+              },
+              {
+                label: 'Mbchbfordummies@gmail.com',
+                href: 'mailto: mbchbfordummies@gmail.com',
               },
             ],
           },
