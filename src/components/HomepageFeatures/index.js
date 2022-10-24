@@ -5,31 +5,22 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg')
-      .default,
-    description: (
-      <>Tired of writing notes. Get all your lecture notes here.</>
-    ),
+    Svg: require('@site/static/img/undraw_easy.svg').default,
+    description: <>Get all your lecture notes here.</>,
   },
   {
     title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg')
-      .default,
+    Svg: require('@site/static/img/focus.svg').default,
     description: (
       <>
-        MBChB for Dummies lets you focus on <code>understanding</code>{' '}
-        the concept rather than spending hours writing notes, you will
-        never read.
+        Focus on <code>understanding</code> the concept.
       </>
     ),
   },
   {
     title: 'Achieve Excellence',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg')
-      .default,
-    description: (
-      <>Do you want to improve your grades? Let us help you.</>
-    ),
+    Svg: require('@site/static/img/undraw_doctors.svg').default,
+    description: <>Improve your grades.</>,
   },
 ];
 

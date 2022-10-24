@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'ignore',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -37,11 +37,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-        },
+
+        blog: false,
+        // remove the above blog: false, uncomment the blog: {} to reset the blog section.
+        //blog: {
+        //   showReadingTime: true,
+        //   // Please change this to your repo.
+        //   // Remove this to remove the "edit this page" links.
+        // },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -56,7 +59,7 @@ const config = {
         title: 'MBChBforDummies',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo1.svg',
         },
         items: [
           {
@@ -80,8 +83,8 @@ const config = {
             title: 'Level',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Level 5',
+                to: '/docs/category/level-5',
               },
             ],
           },
@@ -108,7 +111,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} MBChBforDummies. Built with 💓 by EK. `,
+        copyright: `Copyright © ${new Date().getFullYear()} `,
       },
       prism: {
         theme: lightCodeTheme,
