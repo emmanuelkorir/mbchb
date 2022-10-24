@@ -4,8 +4,45 @@ sidebar_position: 1
 
 # MBChB for Dummies
 
-Class notes from University of Nairobi lecure series.
+## 👋 Welcome
 
-## Challenges
+We aim to:
 
-In case of any issue, contact us on our [email](mbchbfordummies@gmail.com).
+- 🎓​ make lecture notes easily accessible.
+- 💡 provide additional notes for further comprehension.
+- 📝​create question banks with previous past papers.
+
+:::warning Site under🚧
+The website is still in its development phase. Grammatical and other relevant errors will be fixed. More features will be released soon.
+:::
+
+## ❄️ ​​Who are we?
+
+We are a team of medical students from the University of Nairobi.
+
+## 🔊​​ Do you want to be part of the team?
+
+Contributing to MBChB For Dummies is a great way to learn, teach your peers, and build experience. One of the best & proven way of learning is using the **[Feynman technique](https://fs.blog/feynman-technique/)**, which involves 4 repeatable steps:
+
+1. **Study**
+2. **Teach**
+3. **Fill the Gaps**
+4. **Simplify**
+
+As such, contributing to this platform, provides you with a similar opportunity.
+
+### 👓 Ways you can contribute
+
+- Documenting the lectures in Microsoft Word format/PDF
+- Providing past papers, answers or newer questions. (Preferably typed MCQs or SAQs questions)
+- Replying to questions
+
+## ​🛤️​ Blogging
+
+Are you passionate about blogging? The blog section will be up soon.
+
+- Blog about anything: your experience in medical school, tips and tricks etc.
+
+## 🚀 Suggestions
+
+To make your experience better, we are open to suggestions. You can email us at email.
