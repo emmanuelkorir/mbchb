@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Financial Accounting Systems & Mechanisms of Health
 
-Dr Agot
+Dr Agot George
 
 ## Financial Statements
 
