@@ -68,7 +68,7 @@ const config = {
       },
       announcementBar: {
         id: 'announcementBar', // Increment on change
-        content: `Site still under🚧`,
+        content: `🕝​Lecture notes are updated after every lecture session.`,
       },
       navbar: {
         hideOnScroll: true,
