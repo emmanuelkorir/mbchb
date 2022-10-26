@@ -68,7 +68,7 @@ const config = {
       },
       announcementBar: {
         id: 'announcementBar', // Increment on change
-        content: `🕝​Lecture notes are updated after every lecture session.`,
+        content: `Today's lectures have been posted🕝`,
       },
       navbar: {
         hideOnScroll: true,
@@ -88,7 +88,7 @@ const config = {
           // {
           //   href: 'https://github.com/facebook/docusaurus',
           //   label: 'GitHub',
-          //   position: 'right',
+          //   position: 'right', ​Lecture notes are updated after every lecture session.
           // },
         ],
       },

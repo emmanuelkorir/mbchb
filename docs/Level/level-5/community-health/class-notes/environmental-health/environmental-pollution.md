@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Environmental Health
 
-Kelly Karimi
+Mrs Mary Kinoti
 
 ## Environmnental Pollution
 
