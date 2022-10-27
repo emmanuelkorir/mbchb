@@ -38,6 +38,11 @@ const config = {
           // Remove this to remove the "edit this page" links.
         },
 
+        gtag: {
+          trackingID: 'G-8PGCTBV7LH',
+          anonymizeIP: false,
+        },
+
         blog: false,
         // remove the above blog: false, uncomment the blog: {} to reset the blog section.
         //blog: {
