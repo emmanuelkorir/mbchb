@@ -68,7 +68,7 @@ const config = {
       },
       announcementBar: {
         id: 'announcementBar', // Increment on change
-        content: `Today's lectures have been posted🕝`,
+        content: `Today's Biostats lectures have been posted🕝`,
       },
       navbar: {
         hideOnScroll: true,
