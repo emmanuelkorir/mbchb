@@ -1,0 +1,144 @@
+---
+sidebar_position: 4
+---
+
+## Two Means & Proportions
+
+Dr Mweu
+
+Comparing two means: The objective here is to compare the mean value in two population, or
+in two sub-populations by;
+
+- Calculating a confidence interval for the difference between 2 sample means which
+  allows for sampling error in estimating the difference between the true means
+- Testing the hypothesis that the true means in the 2 populations are equal
+
+The underlying assumptions in these calculations are:
+
+- Variable of interest is normally distributed
+- Observations are independent i.e. random samples are chosen independently from the
+  2 pops of interest and there’s no connection, for example, between 1st observation in
+  one sample and the 1st observation in the other sample (sample of children in Nairobi
+  Vs Mombasa; and not related)
+
+- In small sample size, we use t distribution; An assumption is that 𝜎1 and 𝜎2 are equal to a
+  common value (common variance).
+
+## Sampling distribution of the difference between 2 means:
+
+Random samples of size n1 and n2 are taken from 2 pops of interest. The means and SDs of a
+quantitative variable x in the 2 pops and samples are:
+
+If random samples of a given size of the variable x (eg weigh) were taken repeatedly in each
+of population 1 & population 2 and each time we measured (𝑥1 - 𝑥2 ) we would
+find that:
+
+- The values of 𝑥1 , 𝑠1, 𝑥2 , 𝑠2 would vary from sample to sample
+- The values of (𝑥1 - 𝑥2 ) would be distributed symmetrically (normal
+  distribution) above and below the true population value (𝜇1 -𝜇2)
+- Values near (𝜇1 -𝜇2) would occur more frequently than values far from (𝜇1 -
+  𝜇2)
+
+## Confidence interval for difference between 2 means
+
+Assuming a large sample size (n≥ 20) the 95% CI for the difference between
+2 means is given by:
+
+<div style={{ display: 'flex', justifyContent: 'center' }}>
+  <img src="https://i.imgur.com/Ny9JGMG.jpg" alt="t-test" />
+</div>
+
+:::info NOTE
+If there’s no real difference between the 2 means the CI around the difference should
+include zero (statistically the same)
+:::
+
+Example: In a cohort study in northeast Brazil, the mental and psychomotor development of
+low birth weight (1500-2499g) infants born at ≥37 weeks gestation (at term), were compared
+to those of a control sample of infants born with appropriate birth weight (3000-3499g).
+Results for mental development 12 months of age in samples of low and appropriate birth
+weight infants were as follows:
+
+<div style={{ display: 'flex', justifyContent: 'center' }}>
+  <img src="https://i.imgur.com/eF9P9nH.jpg" alt="example" />
+</div>
+
+What can be said about the mental development scores of children in these 2 groups (compare
+them)?
+So the 95% CI for the difference (𝜇1 -𝜇2) is given by:
+
+<div style={{ display: 'flex', justifyContent: 'center' }}>
+  <img src="https://i.imgur.com/RZltaDI.png" alt="example" />
+</div>
+
+(115.1 – 108.1) ∓ 1.96√(9.442/84 + 11.52/84) or 7.0 ∓ 1.96\*1.623
+Which is: **3.82 to 10.18** (doesn’t include 0; a difference exist between mental development in
+the 2 groups)
+
+So we are 95% confident that the true population mean difference in mental development scores of ABW and LBW lies between **3.82 and 10.18**
+
+## Significance test for comparison of 2 means
+
+To test the hypothesis about the difference (𝜇1 -𝜇2) between 2 pop means, we write:
+
+<div style={{ display: 'flex', justifyContent: 'center' }}>
+  <img src="https://i.imgur.com/QsGGROz.png" alt="example" />
+</div>
+
+After calculating the Z, the P-value may be read from tables of the normal distribution.
+
+:::info NOTE
+After calculating the Z, if the value is less than critical value is 1.96(z score at 95%) accept the null hypothesis. If the Z value is bigger than the crictical, reject the null hypothesis.
+:::
+
+**Example:** In a cohort study in northeast Brazil, the mental and psychomotor development of
+low birth weight (1500-2499g) infants born at ≥37 weeks gestation (at term), were compared
+to those of a control sample of infants born with appropriate birth weight (3000-3499g).
+Results for mental development 12 months of age in samples of low and appropriate birth
+weight infants were as follows:
+
+(115.1 – 108.1)/√(9.442/84 + 11.52/84) or 7.0/1.623 = 4.31
+From the Z tables, read off 4.31; we find that P value is (reading off at 3.2 (99%); 0.0005 x 2)
+thus **_p value is < 0.001_**. ()
+
+In other words, **_there’s strong evidence for a real difference between the 2 population means (reject null hypothesis, accept alternative hypothesis)_**
+
+:::note tip
+From the example, 4.31 is not in the z-score table, as a rule you make use of 3.29 which is 0.0005 that covers 99.9% of the curve, 0.0005 x 2 gives P value < 0.001
+:::
+
+NB: Note the close relationship between the significance test and the confidence interval. The
+test will give a P-value less than 0.05 if the 95% CI excludes the hypothesized value (0) and
+vice versa. In the example, the 95% CI (3.82 to 10.2) excludes zero, and the P-value is less
+than 0.05.
+
+## T - test
+
+- If sample sizes are small (n < 20), and distribution of the individual values are approx. normal,
+  a t distribution is used
+- An additional assumption is that 𝜎<sub>1</sub> and 𝜎<sub>2</sub> are **_equal_** to a common value (**_common variance_**);
+  get an average of the two since could be numerically different but statistically same: Sp<sup>2</sup>. So,
+
+<div style={{ display: 'flex', justifyContent: 'center' }}>
+  <img src="https://i.imgur.com/oS7PRd2.png" alt="t-test" />
+</div>
+
+However, if variances are different (unequal variances) then: First, test for equality of
+variances using an 𝐹 test:
+
+<div style={{ display: 'flex', justifyContent: 'center' }}>
+  <img src="https://i.imgur.com/QUe1OEL.png" alt="f-test" />
+</div>
+
+If the 𝐹 test-statistic calculated above is significant then perform:
+
+<div style={{ display: 'flex', justifyContent: 'center' }}>
+  <img src="https://i.imgur.com/i3Y7OIh.png" alt="welch t-test" />
+</div>
+
+NB: It is common to see t-tests used where sample sizes are large and adequate for use of z
+test.
+
+:::tip
+Compare calculated t with critical t. If calculated t is > critical, reject hypothesis. If calculcated t is < critical, accept the hypothesis.
+:::
