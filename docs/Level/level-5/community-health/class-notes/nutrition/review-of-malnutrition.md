@@ -77,7 +77,7 @@ Caused by:
 - Repeated episodes of illnesses
 - Also associated with poverty which contributes to poor dietary intake & access to health care over a long period of time
 
-**Effects of stunting:**
+### Effects of stunting:
 
 1. Short term
    - Impaired brain development
