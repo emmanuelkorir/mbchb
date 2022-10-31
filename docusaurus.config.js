@@ -75,7 +75,7 @@ const config = {
       },
       announcementBar: {
         id: 'announcementBar', // Increment on change
-        content: `Today's Biostats & PHC lectures have been posted🕝`,
+        content: `💪💪Week 5/11. If your ambition demands you to walk 👣​ through hell, walk like you own the place ​👌​👌​`,
       },
       navbar: {
         hideOnScroll: true,
