@@ -1,0 +1,99 @@
+---
+sidebar_position: 5
+---
+
+# Comparing two population means for paired data
+
+Dr Mweu
+
+A paired t-test is used to compare 2 pop means when you have 2 samples in which observations in one sample are paired with observations in the other sample
+
+## Examples of paired data
+
+Before-and-after observations on the same subjects (e.g. students diagnostic test results before and after a particular course)
+
+A comparison of 2 different methods of measurement or 2 different treatments where the measurements/treatments are applied to the same subjects (e.g. antigen and antibody ELISA tests on blood samples)
+
+In matched study designs e.g. in a matched clinical trial where we wish to test a new therapy for leg ulcers in sickle cell anaemia relative to an existing therapy. We form pairs of patients matched for age, sex and severity of ulcers and randomly allocate one member of the pair to new therapy, and the other to the existing therapy and compare the quantitative outcomes on the 2 treatments
+
+Observations in a pair are not independent, however different pairs are independent
+
+Let’s assume 2 measurements (𝑥 𝑎𝑛𝑑 𝑦) are taken on each sample drawn from different subjects. Steps involved in carrying out a paired t-test are:
+
+Calculate the difference (𝑑𝑖 = 𝑥𝑖 − 𝑦𝑖) between the 2 observations on each pair, making sure you distinguish between positive and negative differences
+
+Calculate the mean difference, 𝑑 (NB: the paired t-test assumes 𝑑𝑖𝑠 are normally distributed, if not then non-parametric tests are used)
+
+State the hypotheses:
+**𝐻<sub>0</sub>: 𝐷 = 0**
+**𝐻<sub>𝑎</sub>: 𝐷 ≠ 0**
+
+Calculate the standard deviation of the differences, 𝑠𝑑, and use these to calculate the standard error of the mean difference,
+
+** 𝑆𝐸 (𝑑) = <sup>*S*𝑑</sup>&frasl;<sub>&radic;𝑛</sub>**
+
+Calculate the t-statistic which is given by 𝑇 = 𝑑/SE (d) . Under the 𝐻<sub>0</sub>, this statistic follows a t-distribution with 𝑛 − 1 degrees of freedom
+
+Use t-tables to compare your value of 𝑇 to the critical t<sub>n-1</sub> distribution. This will give the P-value for the paired t-test
+
+Example: During a nutritional survey, a quality control exercise was carried out to check the agreement between 2 observers in taking skin-fold measurements. Both observers measured the same 15 adults, with the following results:
+
+<div style={{ display: 'flex', justifyContent: 'center' }}>
+  <img src="https://i.imgur.com/SVFcIpS.png" alt="statistics" />
+</div>
+
+#### Example
+
+Mean difference d = +2.28 and standard deviation s<sub>d</sub> = 2.25
+
+The T statistic will be given by: T =2.28 ÷ <sup>2.25</sup>&frasl;<sub>&radic;15</sub> = **3. 92** with 14 df
+
+This gives **0. 001 < P < 0. 002**, we reject H0 and conclude that there’s strong
+evidence of a real difference between the two observers.
+
+## Comparing two populations
+
+As with means, to compare two proportions (percentages) we
+use:
+Statistical test of significance
+95% CI for the difference in the 2 proportions
+
+### Statistical significance test:
+
+###### Example:
+
+In a clinical trial for advanced (metastatic) breast cancer, patients were randomly assigned to L-Pam or CMF. Tumor response was defined as a shrinkage of tumor surface area by
+at least a half for a minimum of 2 weeks:
+
+<div style={{ display: 'flex', justifyContent: 'center' }}>
+  <img src="https://i.imgur.com/48pZL9b.png " alt="statistics" />
+</div>
+
+Are the 2 drugs equiefficacious in shrinkage of the tumour?
+
+Here we make use of the fact that the difference between the 2 observed proportions has approximately a normal distribution (**normal approximation to the binomial distribution**): **nπ ≥ 5 ; n(1 − π) ≥ 5**
+
+<div style={{ display: 'flex', justifyContent: 'center' }}>
+  <img src="https://i.imgur.com/nthFyzh.png" alt="statistics" />
+</div>
+
+## Confidence Interval
+
+The 95% CI for the difference between 2 proportions (percentages) is:
+
+Observed difference (p) ± 1.96\*Standard error of difference
+
+<div style={{ display: 'flex', justifyContent: 'center' }}>
+  <img src="https://i.imgur.com/fHwbRLR.png" alt="statistics" />
+</div>
+
+So in the previous example the 95% CI is given by:
+
+<div style={{ display: 'flex', justifyContent: 'center' }}>
+  <img src="https://i.imgur.com/LlEwVOY.png" alt="statistics" />
+</div>
+
+**So, we are 95% confident that the true pop difference in tumour responses between CMF & L-Pam is between 19.86% and 45.94%**
+
+NB: Standard error formula in the above calculation doesn’t assume the 𝐻<sub>0</sub> of the
+2 proportions being equal (common variance).
