@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Management of Occupational Hazard
 
-Dr Kinoti
+Ms Karimi
 
 ## Classification of work place occupational hazards
 
