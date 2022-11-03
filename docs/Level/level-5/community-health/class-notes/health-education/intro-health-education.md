@@ -86,7 +86,7 @@ Theory cannot give us absolute understanding but is intended to improve your und
 The health belief model (HBM) is a social psychological health behavior change model developed to explain and predict health-related behaviors, particularly in regard to the uptake of health services. The HBM suggests that people's beliefs about health problems, perceived benefits of action and barriers to action, and self-efficacy explain engagement (or lack of engagement) in health-promoting behavior. A stimulus, or cue to action, must also be present in order to trigger the health-promoting behavior.
 
 <div style={{ display: 'flex', justifyContent: 'center' }}>
-  <img src="https://i.imgur.com/YJEMBBv.png" alt="health belief model" />
+  <img src="https://i.imgur.com/Rr2HE1l.png" alt="health belief model" />
 </div>
 
 #### Perceived susceptibility
