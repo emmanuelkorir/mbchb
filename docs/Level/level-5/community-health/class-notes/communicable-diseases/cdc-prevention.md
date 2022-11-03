@@ -1,5 +1,8 @@
 ---
 sidebar_position: 1
+last_update:
+  date: 10/30/2022
+  author: MFD Contributors
 ---
 
 # Communicable Diseases Prevention & Control
