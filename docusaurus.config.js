@@ -75,7 +75,7 @@ const config = {
       },
       announcementBar: {
         id: 'announcementBar', // Increment on change
-        content: `💪💪Week 5/11. If your ambition demands you to walk 👣​ through hell, walk like you own the place ​👌​👌​`,
+        content: `💪💪Week 6/11. Cogito, ergo Sum - René Descartes ​👌​👌​`,
       },
       navbar: {
         hideOnScroll: true,
