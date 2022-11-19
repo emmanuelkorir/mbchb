@@ -62,11 +62,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      algolia: {
-        appId: 'BMJ0RFX78A',
-        apiKey: '7aa9aba09e4af41923477490050fa9ca',
-        indexName: 'mbchbfordummies',
-      },
+      // algolia: {
+      //   appId: 'BMJ0RFX78A',
+      //   apiKey: '7aa9aba09e4af41923477490050fa9ca',
+      //   indexName: 'mbchbfordummies',
+      // },
       docs: {
         sidebar: {
           hideable: true,
