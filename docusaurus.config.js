@@ -75,7 +75,7 @@ const config = {
       },
       announcementBar: {
         id: 'announcementBar', // Increment on change
-        content: `💪💪Week 7/11. Stop acting so small. You are the universe in ecstatic motion. ​👌​👌​`,
+        content: `💪💪Week 8/11. Stop acting so small. You are the universe in ecstatic motion. ​👌​👌​`,
       },
       navbar: {
         hideOnScroll: true,
