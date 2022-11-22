@@ -235,3 +235,7 @@ diseases. For the child’s well-being.
 ### Basic Causes of Malnutrition
 
 Most underlying causes are the result of basic (or structural) causes related to unequal distribution of resources in a society, historical background and other external factors (Political, Legal and Cultural Factors). Basic causes are the real reasons behind the underlying causes of malnutrition.
+
+<div>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FCausal-framework-outlining-immediate-underlying-and-basic-determinants-of-malnutrition_fig2_11366692&psig=AOvVaw0EcKmo7wnWxFte-49QMLK7&ust=1669211412759000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNj6kaL3wfsCFQAAAAAdAAAAABAM" alt="conceptual-framework" />
+</div>
