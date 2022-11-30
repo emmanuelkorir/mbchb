@@ -158,6 +158,10 @@ Discuss the role of Diet and Nutrition in Non Communicable Diseases
 
 ## Determinants of Malnutrition in Children
 
+<div style={{ display: 'flex', justifyContent: 'center' }}>
+  <img src="https://i.imgur.com/yHiARrH.png" alt="conceptual-framework" />
+</div
+
 Pay specific attention to:
 
 i. Malnutrition and inadequate nutrient intake
@@ -184,6 +188,10 @@ level:
 - Inadequate health, health services and unhealthy environment, including poor water & sanitation.
 
 ##### Household Food Security
+
+<div style={{ display: 'flex', justifyContent: 'center' }}>
+  <img src="https://i.imgur.com/f1zppZg.png" alt="household" />
+</div>
 
 An understanding of food access, availability & utilization at household level is important to understand nutrition situation.
 Consider the following factors:

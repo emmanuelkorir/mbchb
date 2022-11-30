@@ -59,8 +59,12 @@ In summary, the concept of transmission of communicable diseases. Agent inside t
 1. At the level of the reservoir
 2. Exit from the reservoir
 3. In the mechanism of transmission
-   4 At the level of entry into the host
-4. Inside the host
+4. At the level of entry into the host
+5. Inside the host
+
+<div style={{ display: 'flex', justifyContent: 'center' }}>
+  <img src="https://i.imgur.com/13PAJp4.png" alt="chi" />
+</div>
 
 ### Measures that can be taken for the different levels of prevention
 
