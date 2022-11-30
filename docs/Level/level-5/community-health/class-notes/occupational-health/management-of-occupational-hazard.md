@@ -82,6 +82,10 @@ The “steps” in the ladder are:
 > Education
 > Personal protective equipment
 
+<div style={{ display: 'flex', justifyContent: 'center' }}>
+  <img src="https://i.imgur.com/tlqXvBS.png" alt="control" />
+</div>
+
 ### Some of strategy/programme inputs
 
 > Environmental surveillance  
