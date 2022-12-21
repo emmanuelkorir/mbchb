@@ -91,7 +91,7 @@ const config = {
       },
       announcementBar: {
         id: 'announcementBar', // Increment on change
-        content: `💪💪Week 10/11. Success in your CATs. ​👌​👌​`,
+        content: `💪💪Happy New Year ​👌​​`,
       },
       navbar: {
         hideOnScroll: true,
