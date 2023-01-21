@@ -99,3 +99,11 @@ div[class^='announcementBar_'] {
 
   font-weight: 700;
 }
+
+/* Youtube Embed */
+@media screen and (max-width: 480px) {
+  iframe {
+    width: 560;
+    height: 315;
+  }
+}
